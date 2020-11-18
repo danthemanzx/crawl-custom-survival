@@ -4,6 +4,7 @@ With this gamemode players will play as either a Hero or a Ghost. Ghosts play in
 
 ***
 ### Heroes
+![](https://minecraftskinstealer.com/achievement/26/Heroes/playing+as+a+Hero)
 
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
 
@@ -13,6 +14,8 @@ Craft spells using the /recipes command and purchase custom items and kits using
 
 ***
 ### Ghosts
+![](https://minecraftskinstealer.com/achievement/4/Ghosts/playing+as+a+Ghost)
+
 Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
 
 Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
