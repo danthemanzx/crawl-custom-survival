@@ -15,28 +15,6 @@ If a player dies(or disconnects) as a Hero, they will become a Ghost, and their 
 
 Heroes must make it to The End to slay the Ender Dragon. The player to retrieve the Egg will be rewarded champion
 
-Craft spells using the /recipes command and purchase custom items and kits using the /shop command
-
-***
-![](https://minecraftskinstealer.com/achievement/4/Ghosts/playing+as+a+Ghost)
-
-Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
-
-Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
-
-Activate a creatures ability by Sneaking and (Left) clicking.
-
-Hide your mob model using the /view command and teleport to Heroes using the /find command
-
-***
-![](https://minecraftskinstealer.com/achievement/16/Ghost+Artifacts/bosses+%26+upgrades)
-
-Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
-The Artifacts menu can be found in /shop in the top left corner
-
-***
-![](https://minecraftskinstealer.com/achievement/19/Gamemode+Commands/list+of+commands)
-
 * **_/chest_**
 Opens up the player's ender chest. Costs one ender pearl for Heroes.
 
@@ -60,11 +38,8 @@ Turns player into a ghost (spectator mode)
 * **_/home_**
 Teleports player to their bed. Costs one ender pearl for Heroes.
 
-* **_/player, /play_**
-Turn player into a Hero (Survival Mode)
-
-* **_/players_**
-Lists current Heroes
+* **_/recipes_**
+Opens up the spell recipes GUI
 
 * **_/spawn_**
 Teleports player to Spawn location. Costs one ender pearl for Heroes
@@ -73,7 +48,48 @@ Teleports player to Spawn location. Costs one ender pearl for Heroes
 * **_/store, /shop_**
 Opens up the store menu GUI
 
+***
+![](https://minecraftskinstealer.com/achievement/4/Ghosts/playing+as+a+Ghost)
+
+Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
+
+Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
+
+Activate a creatures ability by Sneaking and (Left) clicking.
+
+* **_/chunk_**
+Display world chunk information
+
+* **_/commands_**
+Opens gamemode command bar
+
+* **_/find, /f, /tpa_**
+Teleport to closest Hero
+> Optional Arguments: **/find [player]**
+
+* **_/help, /h_**
+> Optional Arguments: **/help [2]**
+
+* **_/player, /play_**
+Turn player into a Hero (Survival Mode)
+
+* **_/players_**
+Lists current Heroes
+
+* **_/spawn_**
+Teleports player to Spawn location.
+> Optional Arguments: **/spawn [1/2/random]**
+
+* **_/store, /shop_**
+Opens up the store menu GUI
+
 * **_/view_**
 Toggles mob display model for ghosts
+
+***
+![](https://minecraftskinstealer.com/achievement/16/Ghost+Artifacts/bosses+%26+upgrades)
+
+Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
+The Artifacts menu can be found in /shop in the top left corner
 
 ***
