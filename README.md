@@ -64,7 +64,7 @@ Opens up the store menu GUI. Click the top left corner to access **Artifacts**
 Toggles mob display model for ghosts. Often advised to enable this feature.
 
 ***
-![](https://minecraftskinstealer.com/achievement/17/Store+and+Artifacts/custom+items+%26+bosses)
+![](https://minecraftskinstealer.com/achievement/17/Server+Store/custom+artifacts+%26+items)
 
 Heroes can purchase custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely. 
 
