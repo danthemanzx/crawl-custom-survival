@@ -3,7 +3,7 @@
 ***
 [Minecraft 1.16.3 JE](https://discord.gg/7e7ZK4g) **|**
 [Server Discord](https://discord.gg/7e7ZK4g) **|**
-[Report Issues](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
+[Report Issues](https://github.com/danthemanzx/crawl-custom-survival/issues/new) **|**
 [Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects)
 
 ***
