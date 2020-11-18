@@ -17,34 +17,25 @@ Heroes must make it to The End to slay the Ender Dragon. The player to retrieve 
 
 * **_/chest_**
 Opens up the player's ender chest. Costs one ender pearl for Heroes.
-
 * **_/chunk_**
 Display world chunk information
 > Optional Arguments: **/chunk [add/remove] [player]**
-
 * **_/commands_**
 Opens gamemode command bar
-
 * **_/find, /f, /tpa_**
 Teleport to players. Costs one ender pearl for Heroes.
 > Optional Arguments: **/find [player]**
-
 * **_/ghost, /spectate, /s_**
 Turns player into a ghost (spectator mode)
-
 * **_/help, /h_**
 > Optional Arguments: **/help [2]**
-
 * **_/home_**
 Teleports player to their bed. Costs one ender pearl for Heroes.
-
 * **_/recipes_**
 Opens up the spell recipes GUI
-
 * **_/spawn_**
 Teleports player to Spawn location. Costs one ender pearl for Heroes
 > Optional Arguments: **/spawn [1/2/random]**
-
 * **_/store, /shop_**
 Opens up the store menu GUI
 
@@ -59,30 +50,22 @@ Activate a creatures ability by Sneaking and (Left) clicking.
 
 * **_/chunk_**
 Display world chunk information
-
 * **_/commands_**
 Opens gamemode command bar
-
 * **_/find, /f, /tpa_**
 Teleport to closest Hero
 > Optional Arguments: **/find [player]**
-
 * **_/help, /h_**
 > Optional Arguments: **/help [2]**
-
 * **_/player, /play_**
 Turn player into a Hero (Survival Mode)
-
 * **_/players_**
 Lists current Heroes
-
 * **_/spawn_**
 Teleports player to Spawn location.
 > Optional Arguments: **/spawn [1/2/random]**
-
 * **_/store, /shop_**
 Opens up the store menu GUI
-
 * **_/view_**
 Toggles mob display model for ghosts
 
