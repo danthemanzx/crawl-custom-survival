@@ -1,3 +1,4 @@
+![](https://lh6.googleusercontent.com/7ZGuvFsw2luUO54x-0I7jrO6cu9AOvqt8BIaXv-bNpBvY-q3VFjhCnw1yuU4aIGFETrD8tUpWA=w16383)
 ## Crawl Custom Survival Gamemode
 ***
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
@@ -61,9 +62,5 @@ Teleports player to Spawn location
 
 * _/view_
 Toggles mob display model for ghosts
-
-***
-## Custom Items
-s
 
 ***
