@@ -6,6 +6,7 @@
 [Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects)
 
 ***
+### Custom Gamemode
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
 ***
@@ -47,7 +48,7 @@ Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
 * **_/commands_**
 Opens gamemode command bar GUI with clickable menu
 * **_/find (player), /f, /tpa_**
-Teleport to the closest Hero by default. Optional argument to teleport to a specific player. Costs one ender pearl for Heroes.
+Teleport to the closest Hero by default. Optional argument to teleport to a specific player.
 * **_/help (2), /h_**
 /help 2 Opens a text menu of all commands
 * **_/player, /play_**
