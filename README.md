@@ -24,6 +24,7 @@ Hide your mob model using the /view command and teleport to Heroes using the /fi
 
 ***
 ![](https://minecraftskinstealer.com/achievement/16/Ghost+Artifacts/bosses+%26+upgrades)
+
 Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
 The Artifacts menu can be found in /shop in the top left corner
 
