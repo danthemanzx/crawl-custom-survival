@@ -93,3 +93,16 @@ Ghosts can spawn monster bosses and upgrade them using artifacts that cost exper
 The Artifacts menu can be found in /shop in the top left corner
 
 ***
+
+![](https://lh4.googleusercontent.com/VPEcTMixIl6gRHir6HqYhFom_GotooQuW8dzZ3zTPGi6Rdi1OjtbP8ONAljsjixMmYXMMGWfnBev2t69UUGJc7KJX0g0rXVtuw8rbAOhlyyOZNgr-hKV=w1280)
+> Zombie villagers can use rotten flesh to replenish hunger and gain strength. Inflicts hunger upon it's victims
+
+![](https://lh6.googleusercontent.com/BjluBHytiTuy-8YczJPpmAUM6xWt-aCxwbG439b7PGCt1xzws8QVGmLiUCkB6aRevtV9Zb0=w1280)
+
+> Creepers have the unique ability to explode (_but only once!_)
+
+![](https://lh4.googleusercontent.com/9FJVQ3EXwEynxHaziMuShGSXySb0XTZnDxUbYIEdGLPWNsSxsN2YD1hoKSvQ0GlZvSiSWCP3=w1280)
+
+> Rotten replenishes hunger and grants strength. 10% chance to spawn with an iron axe
+
+***
