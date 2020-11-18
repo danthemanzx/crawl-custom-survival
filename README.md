@@ -17,25 +17,23 @@ Heroes must make it to The End to slay the Ender Dragon. The player to retrieve 
 
 * **_/chest_**
 Opens up the player's ender chest. Costs one ender pearl for Heroes.
-* **_/chunk_**
-Display world chunk information
-> Optional Arguments: **/chunk [add/remove] [player]**
+* **_/chunk (add/remove) (player)_**
+Display world chunk information such as chunk id, owner, players allowed, and access allowed.
+Optional arguments to add or remove players access
 * **_/commands_**
-Opens gamemode command bar
-* **_/find, /f, /tpa_**
-Teleport to players. Costs one ender pearl for Heroes.
-> Optional Arguments: **/find [player]**
+Opens gamemode command bar GUI with clickable menu
+* **_/find (player), /f, /tpa_**
+Teleport to the closest Hero by default. Optional argument to teleport to a specific player. Costs one ender pearl for Heroes.
 * **_/ghost, /spectate, /s_**
-Turns player into a ghost (spectator mode)
-* **_/help, /h_**
-> Optional Arguments: **/help [2]**
+Turns player into a ghost (spectator mode). Limited use for Heroes.
+* **_/help (2), /h_**
+/help 2 Opens a text menu of all commands
 * **_/home_**
-Teleports player to their bed. Costs one ender pearl for Heroes.
+Teleports player to their bed's location. Costs one ender pearl for Heroes.
 * **_/recipes_**
 Opens up the spell recipes GUI
-* **_/spawn_**
+* **_/spawn, /spawn (1/2/random)_**
 Teleports player to Spawn location. Costs one ender pearl for Heroes
-> Optional Arguments: **/spawn [1/2/random]**
 * **_/store, /shop_**
 Opens up the store menu GUI
 
@@ -48,26 +46,22 @@ Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
 
 Activate a creatures ability by Sneaking and (Left) clicking.
 
-* **_/chunk_**
-Display world chunk information
 * **_/commands_**
-Opens gamemode command bar
-* **_/find, /f, /tpa_**
-Teleport to closest Hero
-> Optional Arguments: **/find [player]**
-* **_/help, /h_**
-> Optional Arguments: **/help [2]**
+Opens gamemode command bar GUI with clickable menu
+* **_/find (player), /f, /tpa_**
+Teleport to the closest Hero by default. Optional argument to teleport to a specific player. Costs one ender pearl for Heroes.
+* **_/help (2), /h_**
+/help 2 Opens a text menu of all commands
 * **_/player, /play_**
 Turn player into a Hero (Survival Mode)
 * **_/players_**
 Lists current Heroes
-* **_/spawn_**
-Teleports player to Spawn location.
-> Optional Arguments: **/spawn [1/2/random]**
+* **_/spawn, /spawn (1/2/random)_**
+Teleports player to Spawn location. Costs one ender pearl for Heroes
 * **_/store, /shop_**
-Opens up the store menu GUI
+Opens up the store menu GUI. Click the top left corner to access **Artifacts**
 * **_/view_**
-Toggles mob display model for ghosts
+Toggles mob display model for ghosts. Often advised to enable this feature.
 
 ***
 ![](https://minecraftskinstealer.com/achievement/16/Ghost+Artifacts/bosses+%26+upgrades)
