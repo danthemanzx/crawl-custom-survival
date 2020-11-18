@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+## Crawl Custom Survival Gamemode
+***
+With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
-You can use the [editor on GitHub](https://github.com/danthemanzx/crawl-custom-survival/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+***
+### Heroes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
 
-### Markdown
+Heroes must make it to The End to slay the Ender Dragon. The player to retrieve the Egg will be rewarded champion
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Craft spells using the /recipes command and purchase custom items and kits using the /shop command
 
-```markdown
-Syntax highlighted code block
+***
+### Ghosts
+Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
 
-# Header 1
-## Header 2
-### Header 3
+Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
 
-- Bulleted
-- List
+Activate a creatures ability by Sneaking and (Left) clicking.
 
-1. Numbered
-2. List
+Hide your mob model using the /view command and teleport to Heroes using the /find command
 
-**Bold** and _Italic_ and `Code` text
+***
+### Bosses & Ghost Artifacts
+Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
+The Artifacts menu can be found in /shop in the top left corner
 
-[Link](url) and ![Image](src)
-```
+***
+## Gamemode Commands
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### _/chunk_
+Display world chunk information
+> Optional Arguments: /chunk [add/remove] [player]
 
-### Jekyll Themes
+### _/commands_
+Opens gamemode command bar
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danthemanzx/crawl-custom-survival/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### _/find, /f, /tpa_
+Teleport to nearest Hero
+> Optional Arguments: /find [player]
 
-### Support or Contact
+### _/ghost, /spectate, /s_
+Turns player into a ghost (spectator mode)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### _/help, /h_
+> Optional Arguments: /help [2]
+
+### _/home_
+Teleports player to their bed
+
+### _/player, /play_
+Turn player into a Hero (Survival Mode)
+
+### _/players_
+Lists current Heroes
+
+### _/spawn_
+Teleports player to Spawn location
+> Optional Arguments: /spawn [1/2/random]
+
+### _/view_
+Toggles mob display model for ghosts
+
+***
+## Custom Items
+
+***
