@@ -14,7 +14,7 @@ With this gamemode players will play as either a Hero or a Ghost. Ghosts play in
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
 
 Heroes must make it to The End to slay the Ender Dragon. The player to retrieve the Egg will be rewarded champion
-
+### Hero Commands
 * **_/chest_**
 Opens up the player's ender chest. Costs one ender pearl for Heroes.
 * **_/chunk (add/remove) (player)_**
@@ -42,10 +42,8 @@ Opens up the store menu GUI
 
 Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
 
-Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
-
-Activate a creatures ability by Sneaking and (Left) clicking.
-
+Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them. Use a creatures ability by Sneaking and (Left) clicking.
+### Ghost Commands
 * **_/commands_**
 Opens gamemode command bar GUI with clickable menu
 * **_/find (player), /f, /tpa_**
@@ -56,7 +54,7 @@ Teleport to the closest Hero by default. Optional argument to teleport to a spec
 Turn player into a Hero (Survival Mode)
 * **_/players_**
 Lists current Heroes
-* **_/spawn, /spawn (1/2/random)_**
+* **_/spawn (1/2/random)_**
 Teleports player to Spawn location. Costs one ender pearl for Heroes
 * **_/store, /shop_**
 Opens up the store menu GUI. Click the top left corner to access **Artifacts**
