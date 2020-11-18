@@ -3,7 +3,7 @@
 ***
 [Minecraft 1.16.3 JE](https://discord.gg/7e7ZK4g) **|**
 [Server Discord](https://discord.gg/7e7ZK4g) **|**
-[Report Issues Here](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
+[Report Issues](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
 [Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects)
 
 ***
@@ -64,7 +64,9 @@ Opens up the store menu GUI. Click the top left corner to access **Artifacts**
 Toggles mob display model for ghosts. Often advised to enable this feature.
 
 ***
-![](https://minecraftskinstealer.com/achievement/16/Ghost+Artifacts/bosses+%26+upgrades)
+![](https://minecraftskinstealer.com/achievement/17/Store+and+Artifacts/custom+items+%26+bosses)
+
+Heroes can purchase custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely. 
 
 Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
 The Artifacts menu can be found in /shop in the top left corner
