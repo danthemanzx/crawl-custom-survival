@@ -29,37 +29,37 @@ The Artifacts menu can be found in /shop in the top left corner
 ***
 ## Gamemode Commands
 
-### _/chunk_
+* _/chunk_
 Display world chunk information
 > Optional Arguments: /chunk [add/remove] [player]
 
-### _/commands_
+* _/commands_
 Opens gamemode command bar
 
-### _/find, /f, /tpa_
+* _/find, /f, /tpa_
 Teleport to nearest Hero
 > Optional Arguments: /find [player]
 
-### _/ghost, /spectate, /s_
+* _/ghost, /spectate, /s_
 Turns player into a ghost (spectator mode)
 
-### _/help, /h_
+* _/help, /h_
 > Optional Arguments: /help [2]
 
-### _/home_
+* _/home_
 Teleports player to their bed
 
-### _/player, /play_
+* _/player, /play_
 Turn player into a Hero (Survival Mode)
 
-### _/players_
+* _/players_
 Lists current Heroes
 
-### _/spawn_
+* _/spawn_
 Teleports player to Spawn location
 > Optional Arguments: /spawn [1/2/random]
 
-### _/view_
+* _/view_
 Toggles mob display model for ghosts
 
 ***
