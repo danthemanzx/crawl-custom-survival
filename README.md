@@ -1,5 +1,5 @@
 ![](https://lh4.googleusercontent.com/pXZy9odMbyo1CWNSaZ-Zb_NfCgjiUAxZIXEhp62-0BFy8K_xmdmcXU8sovfnm3vjeVMq7kwhNcR510GcX0BQ8Zk6KWHERQ06dETyOIcNNFH4F9hzJYI=w1280)
-
+# Crawl Custom Survival Server
 ***
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
@@ -32,6 +32,9 @@ The Artifacts menu can be found in /shop in the top left corner
 ***
 ![](https://minecraftskinstealer.com/achievement/19/Gamemode+Commands/list+of+commands)
 
+* **_/chest_**
+Opens up the player's ender chest. Costs one ender pearl for Heroes.
+
 * **_/chunk_**
 Display world chunk information
 > Optional Arguments: **/chunk [add/remove] [player]**
@@ -40,7 +43,7 @@ Display world chunk information
 Opens gamemode command bar
 
 * **_/find, /f, /tpa_**
-Teleport to nearest Hero
+Teleport to players. Costs one ender pearl for Heroes.
 > Optional Arguments: **/find [player]**
 
 * **_/ghost, /spectate, /s_**
@@ -50,7 +53,7 @@ Turns player into a ghost (spectator mode)
 > Optional Arguments: **/help [2]**
 
 * **_/home_**
-Teleports player to their bed
+Teleports player to their bed. Costs one ender pearl for Heroes.
 
 * **_/player, /play_**
 Turn player into a Hero (Survival Mode)
@@ -59,8 +62,11 @@ Turn player into a Hero (Survival Mode)
 Lists current Heroes
 
 * **_/spawn_**
-Teleports player to Spawn location
+Teleports player to Spawn location. Costs one ender pearl for Heroes
 > Optional Arguments: **/spawn [1/2/random]**
+
+* **_/store, /shop_**
+Opens up the store menu GUI
 
 * **_/view_**
 Toggles mob display model for ghosts
