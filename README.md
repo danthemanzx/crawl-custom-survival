@@ -1,7 +1,7 @@
 ![](https://lh4.googleusercontent.com/pXZy9odMbyo1CWNSaZ-Zb_NfCgjiUAxZIXEhp62-0BFy8K_xmdmcXU8sovfnm3vjeVMq7kwhNcR510GcX0BQ8Zk6KWHERQ06dETyOIcNNFH4F9hzJYI=w1280)
 
 ***
-**Minecraft 1.16.3 JE |**
+[Minecraft 1.16.3 JE](https://discord.gg/7e7ZK4g) **|**
 [Server Discord](https://discord.gg/7e7ZK4g) **|**
 [Report Issues Here](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
 [Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects)
