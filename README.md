@@ -11,7 +11,7 @@
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
 ***
-![](https://minecraftskinstealer.com/achievement/26/Heroes/playing+as+a+Hero)
+![](https://minecraftskinstealer.com/achievement/35/Heroes/Up+to+10+Heroes)
 
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
 
@@ -40,7 +40,7 @@ Teleports player to Spawn location. Costs one ender pearl for Heroes
 Opens up the store menu GUI
 
 ***
-![](https://minecraftskinstealer.com/achievement/4/Ghosts/playing+as+a+Ghost)
+![](https://minecraftskinstealer.com/achievement/4/Ghosts/Up+to+30+Ghosts)
 
 Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
 
@@ -64,9 +64,9 @@ Opens up the store menu GUI. Click the top left corner to access **Artifacts**
 Toggles mob display model for ghosts. Often advised to enable this feature.
 
 ***
-![](https://minecraftskinstealer.com/achievement/17/Server+Store/custom+artifacts+%26+items)
+![](https://minecraftskinstealer.com/achievement/17/Server+Store/Custom+artifacts+%26+items)
 
-Heroes can purchase custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely. 
+Heroes can purchase 50+ custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely. 
 
 Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
 The Artifacts menu can be found in /shop in the top left corner
