@@ -1,4 +1,5 @@
 ![](https://lh4.googleusercontent.com/pXZy9odMbyo1CWNSaZ-Zb_NfCgjiUAxZIXEhp62-0BFy8K_xmdmcXU8sovfnm3vjeVMq7kwhNcR510GcX0BQ8Zk6KWHERQ06dETyOIcNNFH4F9hzJYI=w1280)
+
 ***
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
