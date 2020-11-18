@@ -3,7 +3,6 @@
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
 ***
-### Heroes
 ![](https://minecraftskinstealer.com/achievement/26/Heroes/playing+as+a+Hero)
 
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
@@ -13,7 +12,6 @@ Heroes must make it to The End to slay the Ender Dragon. The player to retrieve 
 Craft spells using the /recipes command and purchase custom items and kits using the /shop command
 
 ***
-### Ghosts
 ![](https://minecraftskinstealer.com/achievement/4/Ghosts/playing+as+a+Ghost)
 
 Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
@@ -30,7 +28,7 @@ Ghosts can spawn monster bosses and upgrade them using artifacts that cost exper
 The Artifacts menu can be found in /shop in the top left corner
 
 ***
-## Gamemode Commands
+![](https://minecraftskinstealer.com/achievement/19/Gamemode+Commands/list+of+commands)
 
 * _/chunk_
 Display world chunk information
