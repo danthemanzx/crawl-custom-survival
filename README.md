@@ -1,6 +1,7 @@
 ![](https://lh4.googleusercontent.com/pXZy9odMbyo1CWNSaZ-Zb_NfCgjiUAxZIXEhp62-0BFy8K_xmdmcXU8sovfnm3vjeVMq7kwhNcR510GcX0BQ8Zk6KWHERQ06dETyOIcNNFH4F9hzJYI=w1280)
 
 ***
+**Minecraft 1.16.3 JE |**
 [Server Discord](https://discord.gg/7e7ZK4g) **|**
 [Report Issues Here](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
 [Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects)
@@ -67,7 +68,5 @@ Toggles mob display model for ghosts. Often advised to enable this feature.
 
 Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
 The Artifacts menu can be found in /shop in the top left corner
-
-***
 
 ***
