@@ -1,4 +1,4 @@
-![](https://lh4.googleusercontent.com/pXZy9odMbyo1CWNSaZ-Zb_NfCgjiUAxZIXEhp62-0BFy8K_xmdmcXU8sovfnm3vjeVMq7kwhNcR510GcX0BQ8Zk6KWHERQ06dETyOIcNNFH4F9hzJYI=w1280)
+![](https://github.com/danthemanzx/crawl-custom-survival/blob/main/standard.gif?raw=true)
 
 ***
 [play.crawl-survival.com](https://discord.gg/7e7ZK4g) **|**
