@@ -7,6 +7,10 @@
 [Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects/1)
 
 ***
+### Server Status
+![](https://mc.beastnode.com/index.php?r=status/133534.png)
+
+***
 ### Custom Gamemode
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
