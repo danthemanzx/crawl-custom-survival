@@ -8,7 +8,7 @@
 
 ***
 ### Server Status
-![](https://mc.beastnode.com/index.php?r=status/133534.png)
+![](http://status.mclive.eu/Crawl Custom Survival/play.crawl-survival.com/25565/banner.png)
 
 ***
 ### Custom Gamemode
