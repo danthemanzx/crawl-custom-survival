@@ -7,10 +7,6 @@
 [Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects/1)
 
 ***
-### Server Status
-![](http://status.mclive.eu/Crawl Custom Survival/play.crawl-survival.com/25565/banner.png)
-
-***
 ### Custom Gamemode
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
 
@@ -81,3 +77,5 @@ The Artifacts menu can be found in /shop in the top left corner
 Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate.
 
 ***
+### Server Status
+![](http://status.mclive.eu/Crawl Custom Survival/play.crawl-survival.com/25565/banner.png)
