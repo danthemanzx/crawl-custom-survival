@@ -25,7 +25,7 @@ With this gamemode players will play as either a Hero or a Ghost. Ghosts play in
 
 ***
 
-![](http://status.mclive.eu/Crawl%20Custom%20Survival/play.crawl-survival.com/25565/banner.png)
+![](http://status.mclive.eu/Crawl Custom Survival/play.crawl-survival.com/25565/banner.png)
 ![](https://minecraftskinstealer.com/achievement/35/Heroes/Up+to+10+Heroes)
 
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
