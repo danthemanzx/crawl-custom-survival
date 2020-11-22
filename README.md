@@ -14,7 +14,7 @@
      ·
     <a href="wiki.crawl-survival.com">Discord</a>
      ·
-    <a href="https://github.com/danthemanzx/crawl-custom-survival.wiki.git">Paypal</a>
+    <a href="Vote">Paypal</a>
   </p>
 </p>
 
