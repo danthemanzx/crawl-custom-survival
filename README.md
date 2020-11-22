@@ -3,8 +3,8 @@
 ***
 [play.crawl-survival.com](https://discord.gg/7e7ZK4g) **|**
 [Server Discord](https://discord.gg/7e7ZK4g) **|**
-[Report Issues](https://github.com/danthemanzx/crawl-custom-survival/issues/new) **|**
-[Server Project](https://github.com/danthemanzx/crawl-custom-survival/projects/1)
+[Issue Tracker](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
+[Server Status](http://danthemanzx.github.io/crawl-custom-survival/#server-status)
 
 ***
 ### Custom Gamemode
