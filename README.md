@@ -3,7 +3,7 @@
     <img src="https://github.com/danthemanzx/crawl-custom-survival/blob/main/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
   </a>
 
-  <h3 align="center">Crawl Custom Survival Wiki</h3>
+  <h1 align="center">Crawl Custom Survival Wiki</h1>
 
   <p align="center">
     Minecraft 1.16.3 Java Edition
@@ -17,13 +17,6 @@
     <a href="wiki.crawl-survival.com">Paypal</a>
   </p>
 </p>
-
-# Crawl Custom Survival Wiki
-***
-[play.crawl-survival.com](https://www.crawl-survival.com) **|**
-[Server Discord](https://discord.gg/7e7ZK4g) **|**
-[Issue Tracker](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
-[Donate](https://www.crawl-survival.com)
 
 ***
 ### Custom Gamemode
