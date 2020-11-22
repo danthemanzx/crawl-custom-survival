@@ -69,3 +69,6 @@ The Artifacts menu can be found in /shop in the top left corner
 
 Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate.
 
+***
+### Server Status
+![](https://camo.githubusercontent.com/5032f4f77c432e23d79f3f3cc30d35cbaa7438a76efda32f89997e6a975fcc08/687474703a2f2f7374617475732e6d636c6976652e65752f4d696e656372616674253230312e31362e332532304a61766125323045646974696f6e2f706c61792e637261776c2d737572766976616c2e636f6d2f32353536352f62616e6e65722e706e67)
