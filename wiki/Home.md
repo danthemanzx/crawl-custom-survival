@@ -18,7 +18,7 @@
   </p>
 </p>
 <p align="center">
-<img src="http://status.mclive.eu/Crawl%20Custom%20Survival/play.crawl-survival.com/25565/banner.png">
+<img src="http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png">
 
 ***
 ### Custom Gamemode
