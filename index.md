@@ -10,11 +10,11 @@
     <br>
     <a href="https://github.com/danthemanzx/crawl-custom-survival/issues">Issue Tracker</a>
     ·
-    <a href="https://discord.gg/7e7ZK4g">Server Updates</a>
+    <a href="/updates">Server Updates</a>
      ·
-    <a href="https://wiki.crawl-survival.com">Discord</a>
+    <a href="https://discord.gg/7e7ZK4g">Discord</a>
      ·
-    <a href="/vote">Vote</a>
+    <a href="/vote">Server Votes</a>
   </p>
 </p>
 ***
