@@ -1,10 +1,8 @@
-![](https://github.com/danthemanzx/crawl-custom-survival/blob/main/standard.gif?raw=true)
-
 ***
-[play.crawl-survival.com](https://discord.gg/7e7ZK4g) **|**
+[play.crawl-survival.com](https://www.crawl-survival.com) **|**
 [Server Discord](https://discord.gg/7e7ZK4g) **|**
 [Issue Tracker](https://github.com/danthemanzx/crawl-custom-survival/issues) **|**
-[Server Status](http://danthemanzx.github.io/crawl-custom-survival/#server-status)
+[Server Donations](https://www.crawl-survival.com)
 
 ***
 ### Custom Gamemode
@@ -74,8 +72,4 @@ The Artifacts menu can be found in /shop in the top left corner
 ***
 ![](https://minecraftskinstealer.com/achievement/19/Craftable+Spells/Using+craftable+spells)
 
-Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate. 
-
-***
-### Server Status
-![](http://status.mclive.eu/Crawl%20Custom%20Survival/play.crawl-survival.com/25565/banner.png)
+Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate.
