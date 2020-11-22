@@ -1,5 +1,24 @@
+<p align="center">
+  <a href="https://wiki.crawl-survival.com/">
+    <img src="https://github.com/danthemanzx/crawl-custom-survival/blob/main/media/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
+  </a>
 
-![](http://status.mclive.eu/Crawl%20Custom%20Survival/play.crawl-survival.com/25565/banner.png)
+  <h1 align="center">Crawl Custom Survival Wiki</h1>
+
+  <p align="center">
+    Minecraft 1.16.3 Java Edition
+    <br>
+    <a href="/#custom-gamemode">Custom Gamemode</a>
+    ·
+    <a href="/#craftable-spells">Craftable Spells</a>
+     ·
+    <a href="/#hero-commands">Hero Commands</a>
+     ·
+    <a href="/#ghost-commands">Ghost Commands</a>
+  </p>
+</p>
+<p align="center">
+<img src="http://status.mclive.eu/Crawl%20Custom%20Survival/play.crawl-survival.com/25565/banner.png">
 
 ***
 ### Custom Gamemode
@@ -71,3 +90,4 @@ The Artifacts menu can be found in /shop in the top left corner
 ![](https://minecraftskinstealer.com/achievement/19/Craftable+Spells/Using+craftable+spells)
 
 Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate.
+
