@@ -17,6 +17,8 @@
     <a href="Vote">Paypal</a>
   </p>
 </p>
+![](http://status.mclive.eu/Crawl%20Custom%20Survival/play.crawl-survival.com/25565/banner.png)
+
 ***
 ### Custom Gamemode
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
