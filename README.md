@@ -17,7 +17,7 @@
     <a href="Vote">Paypal</a>
   </p>
 </p>
-
+[][heading.html]
 ***
 ### Custom Gamemode
 With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
