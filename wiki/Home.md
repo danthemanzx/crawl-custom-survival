@@ -6,7 +6,6 @@
   <h1 align="center">Crawl Custom Survival Wiki</h1>
   <h3 align="center">play.crawl-survival.com</h3>
   <p align="center">
-    Minecraft 1.16.3 Java Edition
     <br>
     <a href="https://www.crawl-survival.com/wiki/#hero-commands">Hero Commands</a>
      ·
