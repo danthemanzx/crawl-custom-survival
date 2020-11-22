@@ -14,7 +14,7 @@
      ·
     <a href="wiki.crawl-survival.com">Discord</a>
      ·
-    <a href="wiki">Wiki Pages</a>
+    <a href="/wiki">Wiki Pages</a>
   </p>
 </p>
 
