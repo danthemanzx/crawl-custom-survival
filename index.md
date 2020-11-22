@@ -14,7 +14,7 @@
      ·
     <a href="https://discord.gg/7e7ZK4g">Discord</a>
      ·
-    <a href="/vote">Server Votes</a>
+    <a href="">Server Votes</a>
   </p>
 </p>
 ***

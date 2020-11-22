@@ -3,18 +3,18 @@
     <img src="https://github.com/danthemanzx/crawl-custom-survival/blob/main/media/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
   </a>
 
-  <h1 align="center">Crawl Custom Survival Server</h1>
+  <h1 align="center">Crawl Custom Survival Wiki</h1>
 
   <p align="center">
     Minecraft 1.16.3 Java Edition
     <br>
-    <a href="https://wiki.crawl-survival.com" target="_parent">Report bug</a>
+    <a href="https://github.com/danthemanzx/crawl-custom-survival/issues">Issue Tracker</a>
     ·
-    <a href="https://wiki.crawl-survival.com" target="_parent">Request feature</a>
+    <a href="https://wiki.crawl-survival.com">Wiki Pages</a>
      ·
-    <a href="https://wiki.crawl-survival.com" target="_parent">Discord</a>
+    <a href="https://discord.gg/7e7ZK4g">Discord</a>
      ·
-    <a href="https://wiki.crawl-survival.com" target="_parent">Wiki Pages</a>
+    <a href="">Server Votes</a>
   </p>
 </p>
 
