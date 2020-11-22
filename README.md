@@ -14,7 +14,10 @@
      ·
     <a href="wiki.crawl-survival.com">Discord</a>
      ·
-    <a href="wiki">Server Wiki</a>
+    <a href="wiki">Wiki Pages</a>
   </p>
 </p>
-### Crawl Custom Survival Server
+***
+### Custom Gamemode
+With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
+
