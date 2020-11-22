@@ -14,7 +14,7 @@
      ·
     <a href="wiki.crawl-survival.com">Discord</a>
      ·
-    <a href="Vote.md">Paypal</a>
+    <a href="Vote">Paypal</a>
   </p>
 </p>
 
