@@ -6,11 +6,15 @@
   <h3 align="center">Crawl Custom Survival Wiki</h3>
 
   <p align="center">
-    Short description
+    Minecraft 1.16.3 Java Edition
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="wiki.crawl-survival.com">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="wiki.crawl-survival.com">Request feature</a>
+     ·
+    <a href="wiki.crawl-survival.com">Discord</a>
+     ·
+    <a href="wiki.crawl-survival.com">Paypal</a>
   </p>
 </p>
 
