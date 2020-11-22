@@ -12,7 +12,7 @@
     ·
     <a href="wiki.crawl-survival.com">Request feature</a>
      ·
-    <a href="wiki.crawl-survival.com">Discord</a>
+    <a href="https://wiki.crawl-survival.com">Discord</a>
      ·
     <a href="/vote">Vote</a>
   </p>
