@@ -8,11 +8,13 @@
   <p align="center">
     Minecraft 1.16.3 Java Edition
     <br>
-    <a href="https://www.crawl-survival.com/wiki/#craftable-spells">Craftable Spells</a>
-     ·
     <a href="https://www.crawl-survival.com/wiki/#hero-commands">Hero Commands</a>
      ·
     <a href="https://www.crawl-survival.com/wiki/#ghost-commands">Ghost Commands</a>
+     ·
+    <a href="https://www.crawl-survival.com/wiki/#craftable-spells">Craftable Spells</a>
+	 ·
+    <a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
   </p>
 </p>
 
