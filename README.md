@@ -1,4 +1,4 @@
-# Gamemode Wiki
+# Crawl Custom Survival Wiki
 ***
 [play.crawl-survival.com](https://www.crawl-survival.com) **|**
 [Server Discord](https://discord.gg/7e7ZK4g) **|**
