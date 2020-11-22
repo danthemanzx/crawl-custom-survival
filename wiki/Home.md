@@ -79,6 +79,7 @@ Toggles mob display model for ghosts. Often advised to enable this feature.
 ***
 ![](https://minecraftskinstealer.com/achievement/17/Server+Store/Custom+artifacts+%26+items)
 
+### Custom Items
 Heroes can purchase 50+ custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely. 
 
 Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels.
@@ -87,7 +88,8 @@ The Artifacts menu can be found in /shop in the top left corner
 ***
 ![](https://minecraftskinstealer.com/achievement/19/Craftable+Spells/Using+craftable+spells)
 
-Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate.
+### Craftable Spells
+Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the **/recipes** command. Once a spell is crafted, right click whilst in your hand to activate.
 
 ***
 ### Server Status
