@@ -3,7 +3,7 @@
     <img src="https://github.com/danthemanzx/crawl-custom-survival/blob/main/media/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
   </a>
 
-  <h1 align="center">Crawl Custom Survival Wiki</h1>
+  <h1 align="center">Crawl Custom Survival Server</h1>
 
   <p align="center">
     Minecraft 1.16.3 Java Edition
