@@ -8,9 +8,9 @@
   <p align="center">
     Minecraft 1.16.3 Java Edition
     <br>
-    <a href="wiki.crawl-survival.com">Report bug</a>
+    <a href="https://github.com/danthemanzx/crawl-custom-survival/issues">Issue Tracker</a>
     ·
-    <a href="wiki.crawl-survival.com">Request feature</a>
+    <a href="https://discord.gg/7e7ZK4g">Server Updates</a>
      ·
     <a href="https://wiki.crawl-survival.com">Discord</a>
      ·
