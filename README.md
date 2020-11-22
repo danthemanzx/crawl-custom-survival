@@ -74,8 +74,8 @@ The Artifacts menu can be found in /shop in the top left corner
 ***
 ![](https://minecraftskinstealer.com/achievement/19/Craftable+Spells/Using+craftable+spells)
 
-Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate.
+Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the /recipes command. Once a spell is crafted, right click whilst in your hand to activate. 
 
 ***
 ### Server Status
-![](http://status.mclive.eu/Crawl Custom Survival/play.crawl-survival.com/25565/banner.png)
+![](http://status.mclive.eu/Crawl%20Custom%20Survival/play.crawl-survival.com/25565/banner.png)
