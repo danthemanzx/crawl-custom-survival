@@ -8,11 +8,11 @@
   <p align="center">
     Minecraft 1.16.3 Java Edition
     <br>
-    <a href="wiki.crawl-survival.com" target="_parent">Report bug</a>
+    <a href="https://wiki.crawl-survival.com" target="_parent">Report bug</a>
     ·
-    <a href="wiki.crawl-survival.com" target="_parent">Request feature</a>
+    <a href="https://wiki.crawl-survival.com" target="_parent">Request feature</a>
      ·
-    <a href="wiki.crawl-survival.com" target="_parent">Discord</a>
+    <a href="https://wiki.crawl-survival.com" target="_parent">Discord</a>
      ·
     <a href="https://wiki.crawl-survival.com" target="_parent">Wiki Pages</a>
   </p>
