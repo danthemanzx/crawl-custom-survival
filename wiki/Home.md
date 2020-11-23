@@ -4,7 +4,9 @@
   </a>
 
   <h1 align="center">Crawl Custom Survival Wiki</h1>
-  <h3 align="center" href="https://crawl-survival.com">play.crawl-survival.com</h3>
+  <a href="">
+  <h3 align="center">play.crawl-survival.com</h3>
+  </a>
   <p align="center">
     <br>
     <a href="https://www.crawl-survival.com/wiki/#hero-commands">Hero Commands</a>
