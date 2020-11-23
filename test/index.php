@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <?php
     // Edit this ->
     define( 'MQ_SERVER_ADDR', 'play.crawl-survival.com' );
@@ -43,5 +40,3 @@
         }
     ?>
 
-</body>
-</html>
