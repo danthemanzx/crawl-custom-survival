@@ -27,10 +27,10 @@ hr.solid {
 	<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft">
 </a>
 <a href="https://www.crawl-survival.com/">
-	<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft">
+	<img src="https://www.crawl-survival.com/assets/msl.png?raw=true" alt="Minecraft Server List">
 </a>
 <a href="https://www.crawl-survival.com/">
-	<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft">
+	<img src="https://www.crawl-survival.com/assets/mm.jpg?raw=true" alt="Minecraft Multiplayer">
 </a>
 
 ***
