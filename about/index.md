@@ -15,11 +15,11 @@
 		</a>
 		<p align="center">
 			<br>
-			<a href="https://www.crawl-survival.com/wiki/#hero-commands">Planet Minecraft</a>
+			<a href="https://www.crawl-survival.com/wiki/#hero-commands">Planet MC</a>
 			·
-			<a href="https://www.crawl-survival.com/wiki/#craftable-spells">Minecraft Multiplayer</a>
+			<a href="https://www.crawl-survival.com/wiki/#craftable-spells">MC Multiplayer</a>
 			·
-			<a href="https://www.crawl-survival.com/wiki/mobs-artifacts/">Minecraft Server List</a>
+			<a href="https://www.crawl-survival.com/wiki/mobs-artifacts/">MC Server List</a>
 			·
 			<a href="https://www.crawl-survival.com/wiki/#server-status">Mine Browse</a>
 		</p>
