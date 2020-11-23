@@ -9,11 +9,11 @@
   </a>
   <p align="center">
     <br>
-    <a href="https://www.crawl-survival.com/wiki/#hero-commands">Hero Commands</a>
-     ·
-    <a href="https://www.crawl-survival.com/wiki/#ghost-commands">Ghost Commands</a>
+    <a href="https://www.crawl-survival.com/wiki/#hero-commands">Commands</a>
      ·
     <a href="https://www.crawl-survival.com/wiki/#craftable-spells">Craftable Spells</a>
+     ·
+	<a href="https://www.crawl-survival.com/wiki/mobs-artifacts/">Mobs & Artifacts</a>
 	 ·
     <a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
   </p>
