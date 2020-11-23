@@ -28,13 +28,3 @@
 
     $serverInfo = $ServerQuery->GetInfo();
 ?>
-Players Online: <?php echo $serverInfo['Players'] . "/" . $serverInfo['MaxPlayers']; ?>
-<?php
-    if ( ( $Players = $ServerQuery->GetPlayers( ) ) !== false ) {
-        foreach($Players as $Player){
-                echo "<img width='64' height='64' src='http://cravatar.eu/head/".$Player."/64.png' />";
-            }
-    }  else {
-        echo "Nobodys online!";
-        }
-    ?>
