@@ -1,23 +1,37 @@
-<p align="center">
-  <a href="https://www.crawl-survival.com/">
-    <img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
-  </a>
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
 
-  <h1 align="center">Crawl Custom Survival</h1>
-  <a href="https://crawl-survival.com">
-  <h3 align="center">play.crawl-survival.com</h3>
-  </a>
-  <p align="center">
-    <br>
-    <a href="https://www.crawl-survival.com/wiki/#hero-commands">Discord</a>
-     ·
-    <a href="https://www.crawl-survival.com/wiki/#craftable-spells">Issue Tracker</a>
-     ·
-	<a href="https://www.crawl-survival.com/wiki/mobs-artifacts/">Paypal</a>
-	 ·
-    <a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
-  </p>
+<p align="center">
+	<a href="https://www.crawl-survival.com/">
+		<img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
+	</a>
+	<h1 align="center">Crawl Custom Survival</h1>
+	<a href="https://crawl-survival.com">
+		<h3 align="center">play.crawl-survival.com</h3>
+	</a>
+	<p align="center">
+		<br>
+		<a href="https://www.crawl-survival.com/wiki/#hero-commands">Discord</a>
+		·
+		<a href="https://www.crawl-survival.com/wiki/#craftable-spells">Issue Tracker</a>
+		·
+		<a href="https://www.crawl-survival.com/wiki/mobs-artifacts/">Paypal</a>
+		·
+		<a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
+	</p>
 </p>
+<hr class="solid">
+<a href="https://www.crawl-survival.com/">
+	<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft">
+</a>
+<a href="https://www.crawl-survival.com/">
+	<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft">
+</a>
+<a href="https://www.crawl-survival.com/">
+	<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft">
+</a>
 
 ***
 ### Custom Gamemode
