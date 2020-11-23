@@ -1,6 +1,6 @@
 <?php
     // Edit this ->
-    define( 'MQ_SERVER_ADDR', 'localhost' );
+    define( 'MQ_SERVER_ADDR', 'play.crawl-survival.com' );
     define( 'MQ_SERVER_PORT', 25565 );
     define( 'MQ_TIMEOUT', 1 );
     // Edit this <-
