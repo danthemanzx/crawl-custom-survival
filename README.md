@@ -1,3 +1,8 @@
+---
+permalink: /about/
+permalink: /404.html
+---
+
 <p align="center">
   <a href="https://www.crawl-survival.com/">
     <img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
