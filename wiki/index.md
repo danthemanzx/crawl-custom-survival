@@ -1,4 +1,5 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://www.crawl-survival.com/favicon.ico">
+
+<link rel="icon" href="../favivon.ico" type="image/x-icon" />
 
 {{ content }}
 
