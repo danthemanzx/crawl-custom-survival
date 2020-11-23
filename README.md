@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://www.crawl-survival.com/">
     <img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
+    <img src="https://www.crawl-survival.com/assets/Zombie_Villagers.gif?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
   </a>
 
   <h1 align="center">Crawl Custom Survival Wiki</h1>
