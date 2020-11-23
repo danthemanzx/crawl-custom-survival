@@ -25,7 +25,7 @@ With this gamemode players will play as either a Hero or a Ghost. Ghosts play in
 
 ***
 
-![](https://wwww.crawl-survival.com/assets/Up+to+10+Heroes.png)
+![](../assets/Using+craftable+spells.png)
 
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
 
