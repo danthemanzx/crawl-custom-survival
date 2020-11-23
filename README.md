@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://wiki.crawl-survival.com/">
-    <img src="https://github.com/danthemanzx/crawl-custom-survival/blob/main/media/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
+  <a href="https://www.crawl-survival.com/">
+    <img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
   </a>
 
   <h1 align="center">Crawl Custom Survival Wiki</h1>
