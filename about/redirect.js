@@ -1,1 +1,0 @@
-window.location.replace("https://www.crawl-survival.com/README.MD");
