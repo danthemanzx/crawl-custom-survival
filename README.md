@@ -8,13 +8,11 @@
   <p align="center">
     Minecraft 1.16.3 Java Edition
     <br>
-    <a href="https://github.com/danthemanzx/crawl-custom-survival/issues">Issue Tracker</a>
+    <a href="https://www.crawl-survival.com/issues/">Issue Tracker</a>
     ·
-    <a href="https://wiki.crawl-survival.com">Wiki Pages</a>
+    <a href="https://www.crawl-survival.com/wiki/">Wiki Pages</a>
      ·
     <a href="https://discord.gg/7e7ZK4g">Discord</a>
-     ·
-    <a href="">Server Votes</a>
   </p>
 </p>
 
