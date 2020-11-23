@@ -15,6 +15,10 @@
     <a href="https://discord.gg/7e7ZK4g">Discord</a>
   </p>
 </p>
+<hr>
+<h3 id="custom-gamemode">Custom Gamemode</h3>
+<p>With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.</p>
+<p><img src="http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png" alt=""></p>
 
 ***
 ### Custom Gamemode
