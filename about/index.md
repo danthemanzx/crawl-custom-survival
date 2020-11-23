@@ -26,13 +26,13 @@
 	</p>
 	<hr class="solid">
 	<a href="https://www.crawl-survival.com/">
-		<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft" width=215 height=72>
+		<img src="https://www.crawl-survival.com/assets/pmc.png?raw=true" alt="Planet Minecraft" width=100 height=50>
 	</a>
 	<a href="https://www.crawl-survival.com/">
-		<img src="https://www.crawl-survival.com/assets/msl.png?raw=true" alt="Minecraft Server List" width=215 height=72>
+		<img src="https://www.crawl-survival.com/assets/msl.png?raw=true" alt="Minecraft Server List" width=100 height=50>
 	</a>
 	<a href="https://www.crawl-survival.com/">
-		<img src="https://www.crawl-survival.com/assets/mm.jpg?raw=true" alt="Minecraft Multiplayer" width=215 height=72>
+		<img src="https://www.crawl-survival.com/assets/mm.jpg?raw=true" alt="Minecraft Multiplayer" width=100 height=50>
 	</a>
 </html>
 
