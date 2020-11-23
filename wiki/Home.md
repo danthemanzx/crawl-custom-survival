@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.crawl-survival.com/">
-    <img src="https://wwww.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
+    <img src="https://wwww.crawl-survival.com/assets/favicon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
   </a>
 
   <h1 align="center">Crawl Custom Survival Wiki</h1>
@@ -25,7 +25,7 @@ With this gamemode players will play as either a Hero or a Ghost. Ghosts play in
 
 ***
 
-![](../assets/Using+craftable+spells.png)
+![](https://wwww.crawl-survival.com/assets/Up+to+10+Heroes.png)
 
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
 
@@ -94,4 +94,4 @@ Heroes can craft custom spells using raw materials bound with paper or books. Pu
 
 ***
 ### Server Status
-![](https://camo.githubusercontent.com/5032f4f77c432e23d79f3f3cc30d35cbaa7438a76efda32f89997e6a975fcc08/687474703a2f2f7374617475732e6d636c6976652e65752f4d696e656372616674253230312e31362e332532304a61766125323045646974696f6e2f706c61792e637261776c2d737572766976616c2e636f6d2f32353536352f62616e6e65722e706e67)
+![](https://camo.githubusercontent.com/5032f4f77c432e23d79f3f3cc30d35cbaa7438a76efda32f89997e6a975fcc08/687474703a2f2f7374617475732e6d636c6976652e65752f4d696e656372616674253230312e31362e332532304a61766125323045646974696f6e2f706c61792e637261776c2d737572766976616c2e636f6d2f32353536352f62616e6e65722e706e67?raw=true)
