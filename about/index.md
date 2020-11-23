@@ -15,13 +15,13 @@
 		</a>
 		<p align="center">
 			<br>
-			<a href="https://www.crawl-survival.com/wiki/#hero-commands">Discord</a>
+			<a href="https://www.crawl-survival.com/wiki/#hero-commands">Planet Minecraft</a>
 			·
-			<a href="https://www.crawl-survival.com/wiki/#craftable-spells">Issue Tracker</a>
+			<a href="https://www.crawl-survival.com/wiki/#craftable-spells">Minecraft Multiplayer</a>
 			·
-			<a href="https://www.crawl-survival.com/wiki/mobs-artifacts/">Paypal</a>
+			<a href="https://www.crawl-survival.com/wiki/mobs-artifacts/">Minecraft Server List</a>
 			·
-			<a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
+			<a href="https://www.crawl-survival.com/wiki/#server-status">Mine Browse</a>
 		</p>
 	</p>
 	<hr class="solid">
