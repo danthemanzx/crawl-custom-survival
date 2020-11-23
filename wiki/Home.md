@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://www.crawl-survival.com/favicon.ico">
 <p align="center">
   <a href="https://www.crawl-survival.com/">
     <img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
