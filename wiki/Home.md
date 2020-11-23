@@ -4,7 +4,7 @@
   </a>
 
   <h1 align="center">Crawl Custom Survival Wiki</h1>
-  <a href="">
+  <a href="https://crawl-survival.com">
   <h3 align="center">play.crawl-survival.com</h3>
   </a>
   <p align="center">
