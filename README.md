@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-permalink: /404/
+permalink: /404.html
 ---
 
 ***
