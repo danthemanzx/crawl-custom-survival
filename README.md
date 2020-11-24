@@ -27,4 +27,4 @@ permalink: /404.html
 
 ***
 ### Custom Gamemode
-This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player to become a player
+This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player; to become a player.
