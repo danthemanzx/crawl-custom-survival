@@ -1,7 +1,7 @@
 ---
 permalink: /about.html
 permalink: /404.html
-permalink: /_includes/README.md
+permalink: /_includes/README.html
 ---
 <p align="center">
 <a href="https://www.crawl-survival.com/">
