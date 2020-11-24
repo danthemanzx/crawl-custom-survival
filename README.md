@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about.html
 permalink: /404.html
 permalink: /_includes/README.md
 ---
