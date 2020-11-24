@@ -27,11 +27,4 @@ permalink: /404.html
 
 ***
 ### Custom Gamemode
-This server uses a custom survival gamemode where players play as a **Ghost** or **Hero**.
-**Ghosts** spawn in spectator mode and have the ability to possess mobs.
-The goal of **Ghost** is kill a**Hero** and take their spot.
-A fallen **Hero** will become a **Ghost**, and the attacking Ghost will become a **Hero**.
-
-With this gamemode players will play as either a Hero or a Ghost. Ghosts play in spectator mode and control mobs and bosses. Heroes must make it to The End and slay the Ender Dragon to be rewarded Champion.
-
-![](http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
+This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player to become a player
