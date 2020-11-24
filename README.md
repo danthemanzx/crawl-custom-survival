@@ -17,7 +17,7 @@ permalink: /404.html
     ·
     <a href="https://www.crawl-survival.com/wiki/">Wiki Page</a>
      ·
-    <a href="https://discord.gg/7e7ZK4g">Discord Server</a>
+    <a href="https://discord.gg/7e7ZK4g">Discord</a>
 	 ·
     <a href="https://www.crawl-survival.com/issues/">Issue Tracker</a>
 	 ·
