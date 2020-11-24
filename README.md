@@ -12,7 +12,6 @@ permalink: /404.html
   
   <p align="center">
     <h3 align="center">play.crawl-survival.com</h3>
-    <br>
     <a href="https://www.crawl-survival.com">crawl-survival.com</a>
     ·
     <a href="https://www.crawl-survival.com/wiki/">Wiki Page</a>
@@ -22,6 +21,7 @@ permalink: /404.html
     <a href="https://www.crawl-survival.com/issues/">Issue Tracker</a>
 	 ·
     <a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
+	<br>
   </p>
   <h3 align="center">play.crawl-survival.com</h3>
   This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player; to become a player.
