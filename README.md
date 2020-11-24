@@ -20,10 +20,12 @@ permalink: /404.html
 </p>
 <p align="center">
 Minecraft 1.16.3 Java Edition
+
 <br>
 This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player; to become a player.
-</p>
 
+<br>
+<img src="https://www.crawl-survival.com/assets/standard.gf?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72></p>
 ***
 	
 ![](http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
