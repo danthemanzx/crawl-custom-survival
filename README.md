@@ -23,7 +23,7 @@ permalink: /404.html
     <a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
 	<br>
   </p>
-  <h3 align="center">play.crawl-survival.com</h3>
+  <h3 align="center">Minecraft 1.16.3 Java Edition</h3>
   This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player; to become a player.
 </p>
 
