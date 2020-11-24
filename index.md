@@ -1,12 +1,6 @@
 ---
 layout: test
 ---
-<style>
-body {
-  background-image: url('https://www.crawl-survival.com/assets/background.png');
-}
-</style>
-<div style="background-image: url('https://crawl-survival.com/assets/background.png');">
 <p align="center">
 <a href="https://www.crawl-survival.com/">
 <img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72></a>
