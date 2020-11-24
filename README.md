@@ -4,7 +4,7 @@ permalink: /404.html
 ---
 <p align="center">
 <a href="https://www.crawl-survival.com/">
-<img src="https://www.crawl-survival.com/_assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72></a>
+<img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72></a>
 <h1 align="center">Crawl Custom Survival Server</h1></p>
 <h3 align="center">play.crawl-survival.com</h3>
 <p align="center">
