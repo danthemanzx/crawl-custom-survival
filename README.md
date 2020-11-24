@@ -11,7 +11,7 @@ permalink: /404.html
   <h1 align="center">Crawl Custom Survival Server</h1>
 
   <p align="center">
-    play.crawl-survival.com · Minecraft 1.16.3 JE
+    Minecraft 1.16.3 Java Edition
     <br>
     <a href="https://www.crawl-survival.com">crawl-survival.com</a>
     ·
@@ -26,5 +26,4 @@ permalink: /404.html
 </p>
 
 ***
-### Custom Gamemode
 This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player; to become a player.
