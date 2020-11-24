@@ -11,7 +11,7 @@ permalink: /404.html
   <h1 align="center">Crawl Custom Survival Server</h1>
 
   <p align="center">
-    Minecraft 1.16.3 Java Edition
+    play.crawl-survival.com · Minecraft 1.16.3 JE
     <br>
     <a href="https://www.crawl-survival.com">crawl-survival.com</a>
     ·
