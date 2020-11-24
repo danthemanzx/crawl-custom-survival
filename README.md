@@ -18,6 +18,7 @@ permalink: /404.html
 ·
 <a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
 </p>
+<hr>
 <p align="center">
 Minecraft 1.16.3 Java Edition
 <br>
