@@ -3,7 +3,7 @@ permalink: /wiki/
 ---
 <p align="center">
   <a href="https://www.crawl-survival.com/">
-    <img src="https://www.crawl-survival.com/assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
+    <img src="https://www.crawl-survival.com/_assets/server-icon.png?raw=true" alt="Crawl Custom Survival Wiki" width=72 height=72>
   </a>
 
   <h1 align="center">Crawl Custom Survival Wiki</h1>
@@ -28,7 +28,7 @@ With this gamemode players will play as either a Hero or a Ghost. Ghosts play in
 
 ***
 
-![](https://www.crawl-survival.com/assets/Up+to+10+Heroes.png)
+![](https://www.crawl-survival.com/_assets/Up+to+10+Heroes.png)
 
 If a player dies(or disconnects) as a Hero, they will become a Ghost, and their Hero slot (and inventory) is given to another player.
 
@@ -57,7 +57,7 @@ Teleports player to Spawn location. Costs one ender pearl for Heroes
 Opens up the store menu GUI
 
 ***
-![](https://www.crawl-survival.com/assets/Up+to+30+Ghosts.png)
+![](https://www.crawl-survival.com/_assets/Up+to+30+Ghosts.png)
 
 Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
 
@@ -81,7 +81,7 @@ Opens up the store menu GUI. Click the top left corner to access **Artifacts**
 Toggles mob display model for ghosts. Often advised to enable this feature.
 
 ***
-![](https://www.crawl-survival.com/assets/Custom+artifacts+&+items.png)
+![](https://www.crawl-survival.com/_assets/Custom+artifacts+&+items.png)
 
 ### Custom Items
 Heroes can purchase 50+ custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely. 
@@ -90,7 +90,7 @@ Ghosts can spawn monster bosses and upgrade them using artifacts that cost exper
 The Artifacts menu can be found in /shop in the top left corner
 
 ***
-![](https://www.crawl-survival.com/assets/Using+craftable+spells.png)
+![](https://www.crawl-survival.com/_assets/Using+craftable+spells.png)
 
 ### Craftable Spells
 Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the **/recipes** command. Once a spell is crafted, right click whilst in your hand to activate.
