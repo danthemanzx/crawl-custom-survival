@@ -10,10 +10,8 @@ permalink: /404.html
 
   <h1 align="center">Crawl Custom Survival Server</h1>
   
-  <h3 align="center">play.crawl-survival.com</h3>
-  
   <p align="center">
-    Minecraft 1.16.3 Java Edition
+    <h3>play.crawl-survival.com</h3>
     <br>
     <a href="https://www.crawl-survival.com">crawl-survival.com</a>
     ·
@@ -24,8 +22,12 @@ permalink: /404.html
     <a href="https://www.crawl-survival.com/issues/">Issue Tracker</a>
 	 ·
     <a href="https://www.crawl-survival.com/wiki/#server-status">Server Status</a>
+	</br>
+	<h3>Minecraft 1.16.3 Java Edition</h3>
+	This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player; to become a player.
   </p>
 </p>
 
 ***
-This server uses a custom coded survival gamemode, where players in spectator mode can control mobs. Once a player dies, they will respawn in spectator mode where they must kill another player; to become a player.
+
+![](http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
