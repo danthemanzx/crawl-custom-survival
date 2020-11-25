@@ -11,7 +11,7 @@
     <br>
     <a href="#hero-commands">Commands</a>
      ·
-    <a href="#craftable-spells">Artifacts & Spells</a>
+    <a href="#craftable-items">Artifacts & Items</a>
      ·
     <a href="#server-status">Server Status</a>
      ·
