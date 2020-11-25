@@ -5,7 +5,7 @@ permalink: /about
 permalink: /about/
 permalink: /404
 layout: default
-header: _posts/_Sidebar.md
+header: /_posts/_Sidebar.md
 ---
 <html>
 <p align="center">
