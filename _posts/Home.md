@@ -2,7 +2,7 @@
 permalink: /wiki
 layout: default
 ---
-
+{% include_relative _Sidebar.md %}
 
 * * *
 ### Custom Gamemode
