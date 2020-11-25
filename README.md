@@ -1,7 +1,15 @@
 ---
 permalink: /about
 permalink: /404
+layout: default
 ---
+
+<br>
+<ul>
+  {% for post in site.posts %}
+    <hr><br> {{ post }} <br>
+  {% endfor %}
+</ul>
 
 ***
 	
