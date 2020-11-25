@@ -1,5 +1,6 @@
 ---
 permalink: /about
+permalink: /about/
 permalink: /404
 layout: default
 ---
