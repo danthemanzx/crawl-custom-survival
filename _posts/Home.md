@@ -1,5 +1,5 @@
 ---
-permalink: /wiki
+permalink: /wiki/
 layout: default
 ---
 tests
