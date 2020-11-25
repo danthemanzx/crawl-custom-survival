@@ -1,12 +1,3 @@
-# Original work Copyright 2019 Tan Nhu, Maarten Brakkee
-# (https://github.com/tnhu/jekyll-include-absolute-plugin)
-#
-# Enhancements and corrections Copyright 2020 Michael Slinn
-# (https://github.com/mslinn/jekyll-flexible-include-plugin)
-#
-# MIT License
-# https://github.com/tnhu/jekyll-include-absolute-plugin/blob/master/LICENSE)
-
 module Jekyll
   module Tags
     class IncludeAbsoluteTagError < StandardError
@@ -45,7 +36,7 @@ module Jekyll
       end
 
       def syntax_example
-        "{% #{@tag_name} 'file.ext' optional_param_1='value' optional_param_n='value' %}"
+        "{% #{@tag_name} 'file.ext' param='value' param2='value' %}"
       end
 
       def parse_params(context)
@@ -68,10 +59,10 @@ module Jekyll
         params
       end
 
-      def validate_file_name(file)  # TODO allow filenames relative to home directory
+      def validate_file_name(file)
         if file !~ VALID_FILENAME_CHARS
           raise ArgumentError, <<-MSG
-Invalid syntax for the flexible_ include tag. The included file contains invalid characters or sequences:
+Invalid syntax for include tag. File contains invalid characters or sequences:
 
   #{file}
 
@@ -86,7 +77,7 @@ MSG
       def validate_params
         unless @params =~ FULL_VALID_SYNTAX
           raise ArgumentError, <<-MSG
-Invalid syntax for the flexible_include tag:
+Invalid syntax for include tag:
 
   #{@params}
 
@@ -114,45 +105,19 @@ MSG
         end
       end
 
-      def expand_env(str)
-        # Expands environment variable references in str
-        str.gsub(/\$([a-zA-Z_][a-zA-Z0-9_]*)|\${\g<1>}|%\g<1>%/) { ENV[$1] }
-      end
-
       def render(context)
         site = context.registers[:site]
 
         file = render_variable(context) || @file
-        file = file.gsub(/\A'|'\Z/, '')  # Strip leading and trailing quotes
-        file = expand_env(file)    # Expand environment variable references
-        #validate_file_name(file)  # TODO uncomment and fix validate_file_name
-        path = file
-        if /^\//.match(file)  # Is the file absolute?
-          #puts "********** render path=#{path}, file=#{file} *************"
-        elsif /~/.match(file)  # Is the file relative to user's home directory?
-          #puts "********** render original file=#{file}, path=#{path} *************"
-          file.slice! "~/"
-          path = File.join(ENV['HOME'], file)
-          #puts "********** render path=#{path}, file=#{file} *************"
-        elsif /\!/.match(file)  # Is the file on the PATH?
-          #puts "********** render original file=#{file}, path=#{path} *************"
-          file.slice! "!"
-          path = File.which(file)
-          #puts "********** render path=#{path}, file=#{file} *************"
-        else  # The file is relative
-          source = File.expand_path(context.registers[:site].config['source']).freeze # website root directory
-          path = File.join(source, file)  # Fully qualified path of include file
-          #puts "********** render file=#{file}, path=#{path}, source=#{source} *************"
-        end
+        # strip leading and trailing quote's
+        file = file.gsub!(/\A'|'\Z/, '')
+        validate_file_name(file)
+
+        source = File.expand_path(context.registers[:site].config['source']).freeze
+        path = File.join(source, file)
         return unless path
 
-        begin
-          escaped_contents = read_file(path, context).gsub("{", "&#123;").gsub("}", "&#125;").gsub("<", "&lt;")
-          #puts escaped_contents
-          partial = Liquid::Template.parse(escaped_contents)
-        rescue StandardError => e
-          abort "flexible_include.rb: #{e.message}"
-        end
+        partial = Liquid::Template.parse(read_file(path, context))
 
         context.stack do
           context["include"] = parse_params(context) if @params
@@ -200,4 +165,4 @@ MSG
   end
 end
 
-Liquid::Template.register_tag("flexible_include", Jekyll::Tags::IncludeAbsoluteTag)
+Liquid::Template.register_tag("include_absolute", Jekyll::Tags::IncludeAbsoluteTag)
