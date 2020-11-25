@@ -1,5 +1,6 @@
 ---
 permalink: /wiki
+permalink: /wiki/
 layout: wikiPage
 header: _Sidebar.md
 ---
