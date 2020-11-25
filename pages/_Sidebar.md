@@ -11,12 +11,10 @@
     <br>
     <a href="#hero-commands">Commands</a>
      ·
-    <a href="#craftable-spells">Craftable Spells</a>
-     ·
-    <a href="#mob-artifacts/">Mobs & Artifacts</a>
+    <a href="#craftable-spells">Artifacts & Spells</a>
      ·
     <a href="#server-status">Server Status</a>
      ·
-    <a href="#server-updates">Server Updates</a>
+    <a href="#server-updates">Updates</a>
   </p>
 </p>
