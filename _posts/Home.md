@@ -2,6 +2,7 @@
 permalink: /wiki
 layout: default
 ---
+tests
 {% include_relative _Sidebar.md %}
 
 * * *
