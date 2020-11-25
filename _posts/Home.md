@@ -1,6 +1,7 @@
 ---
 permalink: /wiki/
 layout: default
+header: _Sidebar.md
 ---
 tests
 {% include_relative _Sidebar.md %}
