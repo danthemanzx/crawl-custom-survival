@@ -1,4 +1,6 @@
 ---
+permalink: /updates
+permalink: /updates/
 permalink: /about
 permalink: /about/
 permalink: /404
