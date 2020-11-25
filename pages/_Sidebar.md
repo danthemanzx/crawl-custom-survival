@@ -13,8 +13,10 @@
      ·
     <a href="#craftable-spells">Craftable Spells</a>
      ·
-	<a href="#mob-artifacts/">Mobs & Artifacts</a>
-	 ·
+    <a href="#mob-artifacts/">Mobs & Artifacts</a>
+     ·
     <a href="#server-status">Server Status</a>
+     ·
+    <a href="#server-updates">Server Updates</a>
   </p>
 </p>
