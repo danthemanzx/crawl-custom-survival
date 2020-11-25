@@ -17,6 +17,7 @@ This server uses a custom coded survival gamemode, where players in spectator mo
   {% endfor %}
 </ul>
 </html>
+
 ***
-	
+
 ![](http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
