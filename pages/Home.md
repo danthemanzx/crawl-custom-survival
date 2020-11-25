@@ -9,9 +9,9 @@ header: _Sidebar.md
 * * *
 ### Custom Gamemode
 
-Crawl Custom Survival Server features a custom gamemode in which players must play as a **`Ghost`** or **`Hero`**.
-
-**`Ghosts`** spawn in spectator mode with the ability to possess mobs and summon bosses. If a Ghost is able to kill a Hero, they will swap places; and the fallen Hero will become a Ghost! **`Heroes`** spawn in survival mode and must make it to The End to slay the **`Ender Dragon`** and claim their spot as champion! Heroes are able to purchase weapons and kits for experience levels and craft custom spells.
+Crawl Custom Survival Server features a custom gamemode in which players must play as a **`Ghost`** or **`Hero`**. <br>
+**`Ghosts`** spawn in spectator mode with the ability to possess mobs and summon bosses. If a Ghost is able to kill a Hero, they will swap places; and the fallen Hero will become a Ghost! <br>
+**`Heroes`** spawn in survival mode and must make it to The End to slay the **`Ender Dragon`** and claim their spot as champion! Heroes are able to purchase weapons and kits for experience levels and craft custom spells.
 
 * * *
 ![](https://www.crawl-survival.com/assets/Up+to+10+Heroes.png)
