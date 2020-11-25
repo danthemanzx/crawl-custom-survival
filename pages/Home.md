@@ -5,7 +5,7 @@ header: _Sidebar.md
 ---
 
 * * *
-### Custom Gamemode test
+### Custom Gamemode
 
 Crawl Custom Survival Server features a custom gamemode in which players must play as a **`Ghost`** or **`Hero`**.
 
