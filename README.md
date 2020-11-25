@@ -3,6 +3,7 @@ permalink: /about
 permalink: /404
 layout: default
 ---
+<html>
 <p align="center">
 <b>Minecraft 1.16.3 Java Edition</b>
 
@@ -15,7 +16,7 @@ This server uses a custom coded survival gamemode, where players in spectator mo
     <hr><br> {{ post }} <br>
   {% endfor %}
 </ul>
-
+</html>
 ***
 	
 ![](http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
