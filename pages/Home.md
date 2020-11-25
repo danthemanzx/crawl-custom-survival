@@ -4,6 +4,8 @@ layout: default
 header: _Sidebar.md
 ---
 
+{% include_relative _Sidebar.md %}
+
 * * *
 ### Custom Gamemode
 
