@@ -15,7 +15,6 @@ This server uses a custom coded survival gamemode, where players in spectator mo
 </p>
 <br>
 <ul>
-  {% include_relative _Sidebar.md %}
   {% for post in site.posts %}
     <hr><br> {{ post }} <br>
   {% endfor %}
