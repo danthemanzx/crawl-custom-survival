@@ -1,10 +1,10 @@
 ---
 permalink: /updates
 permalink: /updates/
-layout: default
+layout: wikiPage
 ---
 
-<br>
+{% include_relative _Sidebar.md %}
 <ul>
   {% for post in site.posts %}
     <hr><br> {{ post }} <br>
