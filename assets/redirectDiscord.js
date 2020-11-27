@@ -1,0 +1,1 @@
+window.location.replace("https://discord.gg/KmRTgvDh5N");
