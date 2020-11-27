@@ -2,6 +2,7 @@
 permalink: /wiki
 permalink: /wiki/
 layout: wikiPage
+header: _Sidebar.md
 ---
 
 {% include_relative _Sidebar.md %}
