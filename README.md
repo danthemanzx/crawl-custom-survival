@@ -10,21 +10,20 @@ header: /_posts/_Sidebar.md
 
 ### **Server IP ·** `play.crawl-survival.com`
 
-This server features a custom gamemode similar to manhunt where you must clear out dungeons and defeat monsters controlled by other players. Collect loot and defeat bosses to win!
-
+This server features a custom gamemode similar to manhunt where players must clear out dungeons and defeat monsters controlled by other players. Collect loot and defeat bosses for each level of multiple dungeons!
 
 ***
 
 ### How to Play
 
-Upon entering the server you must play as a **Hero** or **Ghost**. Spawn showcases a dungeon portal, hero shop, enchantment table, and regenerable resources. 
+Upon entering the server players must play as a **Hero** or **Ghost**. If all Hero slots are taken, players to be defaulted to Ghost.
 
-**Heroes** must search the dungeons in search of rare artifacts, collecting FIVE of these to win. However if a Hero dies they will rise as a Ghost in spectator mode.
+**Heroes** must search the dungeons in search of rare artifacts, collecting FIVE of these to win. However if a Hero dies they will respawn as a Ghost in spectator mode.
 
-**Ghost**s have the ability to possess monsters, and summon bosses. A Ghost must take the fallen body of a Hero to become a Hero. 
-
+**Ghost**s have the ability to possess monsters, and summon bosses. Ghosts must kill a Hero to become a Hero.
 
 ***
+
 **[[Discord Server](https://discord.gg/KmRTgvDh5N)] · [[Server Status](https://www.crawl-survival.com/wiki/#server-status)] · [[Wiki Page](https://www.crawl-survival.com/wiki)]**
 
 ***
