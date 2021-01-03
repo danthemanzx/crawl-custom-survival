@@ -1,25 +1,4 @@
-<style>
-
-.bg-image {
-  /* The image used */
-  background-image: url("https://crawl-survival.com/assets/background.png");
-  
-  /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-  
-  /* Full height */
-  height: 100%; 
-  
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-<style>
-
 <p align="center">
-  <div class="bg-image">
   <a href="https://www.crawl-survival.com/">
   <img align="center" src="https://www.crawl-survival.com/assets/standard.gif" alt="server icon">
   </a>
@@ -40,5 +19,4 @@
     <a href="#server-updates">Updates</a>
   </p>
   <hr>
-  </div>
 </p>
