@@ -1,12 +1,3 @@
----
-permalink: /updates
-permalink: /updates/
-permalink: /about
-permalink: /about/
-permalink: /404
-layout: default
-header: /_posts/_Sidebar.md
----
 
 ### **Server IP ·** `play.crawl-survival.com`
 
