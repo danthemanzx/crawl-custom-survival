@@ -16,8 +16,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-<div class="bg-image">
+
 <p align="center">
+  <div class="bg-image">
   <a href="https://www.crawl-survival.com/">
   <img align="center" src="https://www.crawl-survival.com/assets/standard.gif" alt="server icon">
   </a>
@@ -38,5 +39,5 @@
     <a href="#server-updates">Updates</a>
   </p>
   <hr>
+  </div>
 </p>
-</div>
