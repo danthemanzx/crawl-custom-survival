@@ -1,13 +1,11 @@
 
-### **Server IP ·** `play.crawl-survival.com`
+### How to Play
 
 This server features a custom gamemode similar to manhunt where players must beat several dungeons and with monsters controlled by other players.
 
 ***
 
-### How to Play
-
-The spawnpoint for this gamemode features an island that has regenerative resources, a Hero shop, a portal to the dungeons. Upon entering the server players must play as a **Hero** or **Ghost**. If all Hero slots are taken, players will be defaulted to Ghost.
+The spawnpoint for this gamemode features an island that has regenerative resources, a Hero shop, and a portal to the dungeons. Upon entering the server players must play as a **Hero** or **Ghost**. If all Hero slots are taken, players will be defaulted to Ghost.
 
 **Heroes** must search the dungeons in search of rare artifacts, collecting FIVE of these to win. However if a Hero dies they will respawn as a Ghost in spectator mode.
 
