@@ -21,7 +21,7 @@ The spawnpoint for this gamemode features an island that has regenerative resour
 
 ***
 
-# Mine Crawl Custom Gamemode
+## Mine Crawl Custom Gamemode
 ### play.crawl-survival.com
 
 **[[Discord Server](https://discord.gg/KmRTgvDh5N)] · [[Server Status](https://www.crawl-survival.com/wiki/#server-status)] · [[Wiki Page](https://www.crawl-survival.com/wiki)]**
