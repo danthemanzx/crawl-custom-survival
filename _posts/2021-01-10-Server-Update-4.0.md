@@ -1,0 +1,12 @@
+- Server spawn has been updated with resources for players , a portal to the dungeons, and a Hero Shop.
+- Three information boards regarding information on How to Play as Heroes, Ghosts, as well as Dungeon information.
+- The dungeon information board shows tips on dungeon gameplay and displays the player with the most kills.
+- The player with the most kills can claim rewards. This is updated every time the server loads.
+- The hero and ghost information boards will explain how to play as a Hero and Ghost.
+- The player with the most votes will also have their name and player head displayed and can likewise redeem rewards.
+- Dungeons are completely updated and open to explore! Teleport to a random dungeon by going through the portal at spawn.
+- Here are few tips when exploring dungeons: Keep an eye out for beds, anvils, and brewing stands. There are rare and should be taken advantage of.
+- Heroes can sleep in a bed to set their home / re-spawn point. This is useful because the portal does not take you to the same dungeon every time.
+- Inventory overwrite functions have been updated. Heroes will now have the option to choose which inventory they would like loaded if there's a conflict
+- Vacant Hero slots will now be open to all nearby Ghosts and a GUI window will be opened to them.
+- More details to follow! Server IP: play.crawl-survival.com
