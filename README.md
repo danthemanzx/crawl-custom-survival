@@ -21,8 +21,8 @@ The spawnpoint for this gamemode features an island that has regenerative resour
 
 ***
 
-### Mine Crawl Custom Gamemode
-## play.crawl-survival.com
+# Mine Crawl Custom Gamemode
+### play.crawl-survival.com
 
 **[[Discord Server](https://discord.gg/KmRTgvDh5N)] · [[Server Status](https://www.crawl-survival.com/wiki/#server-status)] · [[Wiki Page](https://www.crawl-survival.com/wiki)]**
 
@@ -35,4 +35,5 @@ Players must play as either a Hero or Ghost. Ghosts play in spectator mode with 
 
 Heroes play in survival mode and must defeat of dungeon levels in order to win. Heroes are able to purchase custom kits, items and enchantments using experience levels. Heroes are also able to craft custom spells. Learn more at the server wiki page.
 
+### Server Status
 ![](http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
