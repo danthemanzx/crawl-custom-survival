@@ -18,4 +18,5 @@
      ·
     <a href="#server-updates">Updates</a>
   </p>
+  <hr>
 </p>
