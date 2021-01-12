@@ -7,13 +7,13 @@ layout: wikiPage
 {% include_relative _Sidebar.md %}
 
 * * *
-### Custom Gamemode
+### How to Play _(Minecraft 1.16.4 Java Edition)_
 
-Crawl Custom Survival Server features a custom gamemode in which players must play as a **`Ghost`** or **`Hero`**.
+This server features a custom game mode similar to manhunt where players must clear out dungeons while fighting monsters controlled by other players. Each dungeon has progressive levels with custom loot and bosses.
 
-**`Ghosts`** spawn in spectator mode with the ability to possess mobs and summon bosses. If a Ghost is able to kill a Hero, they will swap places; and the fallen Hero will become a Ghost!
+Players must play as either a Hero or Ghost. Ghosts play in spectator mode with the ability to control mobs/monsters. Ghosts must kill a Hero, in order to become a Hero. Ghosts can unlock artifacts as well as spawn and upgrade monsters using experience levels.
 
-**`Heroes`** spawn in survival mode and must make it to The End to slay the **`Ender Dragon`** and claim their spot as champion! Heroes are able to purchase weapons and kits for experience levels and craft custom spells.
+Heroes play in survival mode and must defeat dungeon levels in order to win. Heroes are able to purchase custom kits, items and enchantments using experience levels. Heroes are also able to craft custom spells. Learn more at the server wiki page.
 
 * * *
 ![](https://www.crawl-survival.com/assets/Up+to+10+Heroes.png)
@@ -70,7 +70,7 @@ Ghosts can spawn monster bosses and upgrade them using artifacts that cost exper
 Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the **/recipes** command. Once a spell is crafted, right click whilst in your hand to activate.
 
 * * *
-### Server Status
+# Server Status
 
 ![](https://camo.githubusercontent.com/5032f4f77c432e23d79f3f3cc30d35cbaa7438a76efda32f89997e6a975fcc08/687474703a2f2f7374617475732e6d636c6976652e65752f4d696e656372616674253230312e31362e332532304a61766125323045646974696f6e2f706c61792e637261776c2d737572766976616c2e636f6d2f32353536352f62616e6e65722e706e67?raw=true)
 
