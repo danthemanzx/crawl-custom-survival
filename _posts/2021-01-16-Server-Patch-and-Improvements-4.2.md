@@ -1,0 +1,13 @@
+- Exploiting the game mode is against the rules and doing so will result in a 48 hour ban
+- Any and all clients providing the player with a gameplay advantage is also against the rules. Any detection will result in a permanent non lift able ban!
+- All dungeons have been wiped and regenerated, 15 rogue-like dungeons in total with five levels each
+- The final level for each dungeons will contain TWO Crawl Artifacts. A Hero must collect FIVE of these to face The Ender Dragon
+- Defeating the Ender Dragon allows you to control it next time it is faced by a Hero.
+- New premium perk added "Void Perk" that allows the player to teleport to a nearby location upon respawn
+- Fixed issues with ghost drops when using the /ghost command
+- Fixed an issue with some inventory items getting overwritten
+- Hero inventories will now default to saved inventories, rather than inheriting the victim's
+- Increased the range at which how close a Ghost must be to a Hero to possess a mob (60 -> 100)
+- New artifact added for testing "The Cyborg". This artifact allows a boss to be spawned that can mimic nearby heroes by copying their weapon / armor
+- - Still in testing and may be subject to change
+- Vampire bats spawn 2 - 4 silverfish upon death, also transforming the player into a silverfish as well
