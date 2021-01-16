@@ -1,0 +1,14 @@
+###  Server Patch and Improvements 4.1
+- Ghosts possessing spiders are not able to break their own webs easily. However passing through them will still slow them down
+- Ghosts will now receive the current health and max health of the mob they are attempting to possess
+- Inventory functions no longer overwrite armor slots
+- Updated Sign Functions [ placeable signs ]
+- - The player with the most kills and the most votes will be displayed at spawn with redeemable rewards
+- - Dungeons are not also listed at spawn via a wooden sign that updates by marking dungeons that have had their fifth level unlocked
+- All death messages have been updated
+- Players are now forced to respawn upon death
+- Cooldowns added for commands, mob abilities, and possession.
+- TEN (soon to be 15) dungeons are available at any given time with FIVE levels each. These are currently rogue-like dungeons but this may change.
+- Artifacts will soon be added to the final level of each dungeon. A Hero must collect THREE of these to their Ender Chest to face the Ender Dragon
+- All GUI menus have been improved and updated. 
+- Bunch of other stuff I can't remember
