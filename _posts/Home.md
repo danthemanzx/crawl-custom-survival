@@ -12,7 +12,7 @@ layout: wikiPage
 
 This server features a custom game mode similar to manhunt where players (_**Heroes**_) must clear out dungeons while fighting monsters controlled by other players (_**Ghosts**_). Each dungeon has progressive levels with custom loot and bosses.
 
-Players must play as either a _**Hero**_ or _**Ghost**_. _**Ghosts**_ play in spectator mode with the ability to control mobs/monsters. _Ghosts_ must kill a Hero, in order to become a Hero. _Ghosts_ can unlock artifacts as well as spawn and upgrade monsters using experience levels.
+_**Ghosts**_ play in spectator mode with the ability to control mobs/monsters. _Ghosts_ must kill a Hero, in order to become a Hero. _Ghosts_ can unlock artifacts as well as spawn and upgrade monsters using experience levels.
 
 _**Heroes**_ play in survival mode and must defeat dungeon levels in order to win. _Heroes_ are able to purchase custom kits, items and enchantments using experience levels. Heroes are also able to craft custom spells. Learn more at the server wiki page.
 
