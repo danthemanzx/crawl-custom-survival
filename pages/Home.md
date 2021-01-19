@@ -48,7 +48,7 @@ Heroes are able to purchase custom weapons and more at the shop using experience
 
 * * *
 
-![](https://www.crawl-survival.com/assets/Craftable+spells+++more.PNG)
+![](https://www.crawl-survival.com/assets/Craftable+spells+++more.png)
 
 Heroes can purchase 50+ custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely.
 
