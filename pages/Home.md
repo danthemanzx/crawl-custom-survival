@@ -8,7 +8,7 @@ layout: wikiPage
 
 * * *
 
-# How to Play _(Minecraft 1.16.4 Java Edition)_
+# How to Play _(Minecraft Java Edition)_
 
 This server features a custom game mode similar to manhunt where players (_**Heroes**_) must clear out dungeons while fighting monsters controlled by other players (_**Ghosts**_). Each dungeon has progressive levels with custom loot and bosses.
 
