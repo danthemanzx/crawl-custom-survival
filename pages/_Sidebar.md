@@ -6,9 +6,9 @@
   <p align="center">
     Minecraft 1.16.3 Java Edition
     <br>
-    <a href="#hero-commands">Commands</a>
+    <a href="#gamemode-commands">Commands</a>
      ·
-    <a href="#craftable-items">Artifacts & Items</a>
+    <a href="#ghost-commands">Artifacts & Items</a>
      ·
     <a href="#server-status">Server Status</a>
      ·
