@@ -4,7 +4,7 @@ permalink: /wiki/
 layout: wikiPage
 ---
 
-<html><img align="center" src="https://www.crawl-survival.com/assets/standard.gif" alt="server icon"></html>
+<html><img align="center" src="https://camo.githubusercontent.com/5032f4f77c432e23d79f3f3cc30d35cbaa7438a76efda32f89997e6a975fcc08/687474703a2f2f7374617475732e6d636c6976652e65752f4d696e656372616674253230312e31362e332532304a61766125323045646974696f6e2f706c61792e637261776c2d737572766976616c2e636f6d2f32353536352f62616e6e65722e706e67" alt="server icon"></html>
 
 * * *
 
@@ -64,9 +64,7 @@ Heroes can craft custom spells using raw materials bound with paper or books. Pu
 
 * * *
 
-# Server Status
-
-![](http://status.mclive.eu/Minecraft%201.16.4%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
+<html><img align="center" src="https://www.crawl-survival.com/assets/standard.gif" alt="server icon"></html>
 
 * * *
 
