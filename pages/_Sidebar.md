@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Mine-Crawl Gamemode</h1>
+  <h1 align="center">Mine Crawl Gamemode</h1>
   <a href="https://crawl-survival.com">
   <h2 align="center"><em>play.crawl-survival.com</em></h2>
   </a>
