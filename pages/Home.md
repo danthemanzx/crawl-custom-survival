@@ -34,19 +34,19 @@ _**Heroes**_ play in survival mode and must defeat dungeon levels in order to wi
 Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
 Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them. Use a creatures ability by Sneaking and (Left) clicking.
 
-- `/bl [<list/reset>]` Allows selected items or blocks to be blacklisted from the players inventory, making it easier to manage.
-- - Hold the item you wish to blacklist and type `/blocklist` Easy as that! To remove an item from the blocklist simply click on it!
-- - List blacklisted items with `/blocklist list`.
-- `/home` Teleports the players to their bed if it exists. Heroes must pay one ender pearl to use.
-- `/recipes` Lists craft able spell recipes for Heroes.
+- `/bl [<list/reset>]`  Allows selected items or blocks to be blacklisted from the players inventory, making it easier to manage.
+  - Hold the item you wish to blacklist and type `/blocklist` Easy as that! To remove an item from the blocklist simply click on it!
+  - List blacklisted items with `/blocklist list`.
+- `/home`  Teleports the players to their bed if it exists. Heroes must pay one ender pearl to use.
+- `/recipes`  Lists craft able spell recipes for Heroes.
 
 ## Ghost Commands
 If a Hero dies they will respawn as a Ghost in spectator mode that can possess mobs/monsters.
 Heroes must make it to The End to slay the Ender Dragon by collecting enough artifacts inside the dungeons.
 Heroes are able to purchase custom weapons and more at the shop using experience levels
 
-- `/artifacts` Opens up the Ghost artifacts in game GUI menu
-- `/view` Toggles the mob model display while disguised
+- `/artifacts`  Opens up the Ghost artifacts in game GUI menu
+- `/view`  Toggles the mob model display while disguised
 
 * * *
 
@@ -56,7 +56,6 @@ Heroes can purchase 50+ custom items, kits, effects, and more in the store. Ever
 
 Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels. The Artifacts menu can be found in /shop in the top left corner
 
-* * *
 
 ![](https://www.crawl-survival.com/assets/Using+craftable+spells.png)
 
@@ -72,7 +71,7 @@ Heroes can craft custom spells using raw materials bound with paper or books. Pu
 <html>
 <ul>
   {% for post in site.posts %}
-    <hr><br> {{ post }} <br>
+    <br> {{ post }} <br>
   {% endfor %}
 </ul>
 </html>
