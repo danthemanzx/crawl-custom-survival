@@ -60,7 +60,7 @@ Ghosts can spawn monster bosses and upgrade them using artifacts that cost exper
 
 ![](https://www.crawl-survival.com/assets/Using+craftable+spells.png)
 
-Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the **/recipes** command. Once a spell is crafted, right click whilst in your hand to activate.
+Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the `/recipes` command. Once a spell is crafted, right click whilst in your hand to activate.
 
 * * *
 
