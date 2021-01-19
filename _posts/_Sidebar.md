@@ -1,11 +1,7 @@
 <p align="center">
-  <a href="https://www.crawl-survival.com/">
-  <img align="center" src="https://www.crawl-survival.com/assets/standard.gif" alt="server icon">
-  </a>
-  <hr>
-  <h1 align="center">Crawl Custom Survival</h1>
+  <h1 align="center">Mine Crawl Custom Gamemode</h1>
   <a href="https://crawl-survival.com">
-  <h2 align="center"><em>play.crawl-survival.com</em></h2>
+  <h2 align="center"><em>IP · play.crawl-survival.com</em></h2>
   </a>
   <p align="center">
     Minecraft 1.16.3 Java Edition

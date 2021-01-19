@@ -4,7 +4,7 @@ permalink: /wiki/
 layout: wikiPage
 ---
 
-<html><img align="center" src="https://www.crawl-survival.com/assets/standard.gif" alt="server icon"></html>
+{% include_relative _Sidebar.md %}
 
 * * *
 
