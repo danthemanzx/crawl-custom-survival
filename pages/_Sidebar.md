@@ -8,9 +8,7 @@
     <br>
     <a href="#gamemode-commands">Commands</a>
      ·
-    <a href="#ghost-commands">Artifacts & Items</a>
-     ·
-    <a href="#server-status">Server Status</a>
+    <a href="#ghost-commands">Custom Lore</a>
      ·
     <a href="#server-updates">Updates</a>
   </p>
