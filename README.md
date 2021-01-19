@@ -13,4 +13,4 @@ Players must play as either a Hero or Ghost. Ghosts play in spectator mode with 
 Heroes play in survival mode and must defeat of dungeon levels in order to win. Heroes are able to purchase custom kits, items and enchantments using experience levels. Heroes are also able to craft custom spells. Learn more at the server wiki page.
 
 ### Server Status
-![](http://status.mclive.eu/Minecraft%201.16.3%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
+![](http://status.mclive.eu/Minecraft%201.16.4%20Java%20Edition/play.crawl-survival.com/25565/banner.png)
