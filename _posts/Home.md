@@ -18,46 +18,43 @@ _**Heroes**_ play in survival mode and must defeat dungeon levels in order to wi
 
 ## Gamemode Commands
 
-- `/ghost` Respawn as a Ghost in spectator mode.
-- `/help` Opens up the Mine-Crawl in game GUI help menu
-- `/hero` Respawn as a Hero at spawn (or bed) in survival mode.
-- `/premium` Opens up in game premium GUI menu
+- **`/ghost`** Respawn as a Ghost in spectator mode.
+- **`/help`** Opens up the Mine-Crawl in game GUI help menu
+- **`/hero`** Respawn as a Hero at spawn (or bed) in survival mode.
+- **`/premium`** Opens up in game premium GUI menu
 
 ## Teleportation Commands
 
-- `/find [<player>]` Teleport to other players. Leaving the argument blank fill open the GUI. Heroes can teleport to other Heroes but it will cost an ender pearl.
-- `/spawn` Teleports the player to spawn. Heroes have a cooldown.
+- **`/find [<player>]`** Teleport to other players. Leaving the argument blank fill open the GUI. Heroes can teleport to other Heroes but it will cost an ender pearl.
+- **`/spawn`** Teleports the player to spawn. Heroes have a cooldown.
 
 ## Hero Commands
 Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
 Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them. Use a creatures ability by Sneaking and (Left) clicking.
 
-- `/bl [<list/reset>]`  Allows selected items or blocks to be blacklisted from the players inventory, making it easier to manage.
-  - Hold the item you wish to blacklist and type `/blocklist` Easy as that! To remove an item from the blocklist simply click on it!
-  - List blacklisted items with `/blocklist list`.
-- `/home`  Teleports the players to their bed if it exists. Heroes must pay one ender pearl to use.
-- `/recipes`  Lists craft able spell recipes for Heroes.
+- **`/bl [<list/reset>]`**  Allows selected items or blocks to be blacklisted from the players inventory, making it easier to manage.
+  - Hold the item you wish to blacklist and type **`/blocklist`** Easy as that! To remove an item from the blocklist simply click on it!
+  - List blacklisted items with **`/blocklist list`**
+- **`/home`**  Teleports the players to their bed if it exists. Heroes must pay one ender pearl to use.
+- **`/recipes`**  Lists craft able spell recipes for Heroes.
 
 ## Ghost Commands
 If a Hero dies they will respawn as a Ghost in spectator mode that can possess mobs/monsters.
 Heroes must make it to The End to slay the Ender Dragon by collecting enough artifacts inside the dungeons.
 Heroes are able to purchase custom weapons and more at the shop using experience levels
 
-- `/artifacts`  Opens up the Ghost artifacts in game GUI menu
-- `/view`  Toggles the mob model display while disguised
+- **`/artifacts`**  Opens up the Ghost artifacts in game GUI menu
+- **`/view`**  Toggles the mob model display while disguised
 
 * * *
 
-![](https://www.crawl-survival.com/assets/Custom+artifacts+&+items.png)
+![](https://www.crawl-survival.com/assets/Custom+artifacts+&+items.png)       ![](https://www.crawl-survival.com/assets/Using+craftable+spells.png)
 
 Heroes can purchase 50+ custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely.
 
-Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels. The Artifacts menu can be found in /shop in the top left corner
+Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels. The Artifacts menu can be found in **`/shop`** in the top left corner
 
-
-![](https://www.crawl-survival.com/assets/Using+craftable+spells.png)
-
-Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the `/recipes` command. Once a spell is crafted, right click whilst in your hand to activate.
+Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the **`/recipes`** command. Once a spell is crafted, right click whilst in your hand to activate.
 
 * * *
 
