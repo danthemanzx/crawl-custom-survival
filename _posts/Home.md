@@ -8,7 +8,7 @@ layout: wikiPage
      display: block;
      margin-left: 0px;
      margin-right: 0px;
-     float: left;
+     float: right;
    }
 </style>
 
