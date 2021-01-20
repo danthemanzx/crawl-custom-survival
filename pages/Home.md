@@ -6,9 +6,9 @@ layout: wikiPage
 
 # How to Play _(Minecraft Java Edition)_
 
-This server features a custom game mode similar to manhunt where "_**Heroes**_" must clear out dungeons while fighting monsters controlled by "_**Ghosts**_". Each dungeon has progressive levels with custom loot and bosses. Custom artifacts spawn on the final level that must be collected.
+This server features a custom game mode where "_**Heroes**_" must clear out dungeons while fighting monsters controlled by "_**Ghosts**_". Each dungeon has progressive levels with custom loot and bosses. Custom artifacts spawn on the final level that must be collected.
 
-_**Ghosts**_  play in spectator mode with the ability to control mobs/monsters. Ghosts must kill a hero, in order to become a hero. Ghosts can unlock artifacts as well as spawn and upgrade monsters using experience levels.
+_**Ghosts**_  play in spectator mode with the ability to possess all mobs and monsters. Ghosts must kill a hero, in order to become a hero. Ghosts can unlock artifacts as well as spawn and upgrade monsters using experience levels.
 
 _**Heroes**_  play in survival mode and must defeat dungeon levels in order to win. Heroes are able to purchase custom kits, items and enchantments using experience levels. Heroes are also able to craft custom spells.
 
@@ -45,11 +45,7 @@ If a ghost is able to kill a hero, they will take the hero's place and inventory
 
 ![](https://www.crawl-survival.com/assets/Craftable+spells+++more.png)
 
-Heroes can purchase 50+ custom items, kits, effects, and more in the store. Everything costs experience levels, so spend wisely.
-
-Ghosts can spawn monster bosses and upgrade them using artifacts that cost experience levels. The Artifacts menu can be found in **`/shop`** in the top left corner
-
-Heroes can craft custom spells using raw materials bound with paper or books. Pull up the crafting recipes in game using the **`/recipes`** command. Once a spell is crafted, right click whilst in your hand to activate.
+Heroes can purchase 50+ custom items, kits, effects, artifacts, charms, and more by visiting the villager at spawn. Everything costs experience levels, so spend wisely! Charms have very unique effects and lore, most need to be equipped to the offhand slot to take effect. Heroes should also be on the look out for beds, anvils and brewing stands while going through dungeon levels. These are normally found on the first level. Ghosts are able to unlock and upgrade artifacts with unique monster bosses and more, likewise cost experience levels. To see more information regarding crafting recipes for spells, use the command `/recipes` while in game.
 
 * * *
 
