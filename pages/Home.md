@@ -6,8 +6,8 @@ layout: wikiPage
 <style type="text/css">
    .image-left {
      display: block;
-     margin-left: 70px;
-     margin-right: 70px;
+     margin-left: 10px;
+     margin-right: 10px;
      float: left;
    }
 </style>
