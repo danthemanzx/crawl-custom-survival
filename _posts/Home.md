@@ -22,6 +22,8 @@ _**Ghosts**_  play in spectator mode with the ability to possess all mobs and mo
 
 _**Heroes**_  play in survival mode and must defeat dungeon levels in order to win. Heroes are able to purchase custom kits, items and enchantments using experience levels. Heroes are also able to craft custom spells.
 
+[![](https://www.crawl-survival.com/assets/Craftable+spells+++more.png)](http://www.crawl-survival.com/wiki/#ghost-commands){: .image-left }Heroes can purchase 50+ custom items, kits, effects, artifacts, charms, and more by visiting the villager at spawn. Everything costs experience levels, so spend wisely! Charms have very unique effects and lore, most need to be equipped to the offhand slot to take effect. Heroes should also be on the look out for beds, anvils and brewing stands while going through dungeon levels. These are normally found on the first level. Ghosts are able to unlock and upgrade artifacts with unique monster bosses and more, likewise cost experience levels. To see more information regarding crafting recipes for spells, use the command `/recipes` while in game. 
+
 * * *
 
 ## Gamemode Commands
@@ -48,10 +50,6 @@ If a ghost is able to kill a hero, they will take the hero's place and inventory
 
 - **`/artifacts`**  Opens up the Ghost artifacts in game GUI menu
 - **`/view`**  Toggles the mob model display while disguised
-
-* * *
-
-[![](https://www.crawl-survival.com/assets/Craftable+spells+++more.png)](http://www.crawl-survival.com/wiki/#ghost-commands){: .image-left }Heroes can purchase 50+ custom items, kits, effects, artifacts, charms, and more by visiting the villager at spawn. Everything costs experience levels, so spend wisely! Charms have very unique effects and lore, most need to be equipped to the offhand slot to take effect. Heroes should also be on the look out for beds, anvils and brewing stands while going through dungeon levels. These are normally found on the first level. Ghosts are able to unlock and upgrade artifacts with unique monster bosses and more, likewise cost experience levels. To see more information regarding crafting recipes for spells, use the command `/recipes` while in game. 
 
 * * *
 
