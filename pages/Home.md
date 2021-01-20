@@ -55,8 +55,6 @@ Heroes can craft custom spells using raw materials bound with paper or books. Pu
 
 * * *
 
-<html><img align="center" src="https://www.crawl-survival.com/assets/standard.gif" alt="server icon"><br></html>
-
 # Server Updates
 <html>
 <ul>
