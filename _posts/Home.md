@@ -36,8 +36,7 @@ _**Heroes**_  play in survival mode and must defeat dungeon levels in order to w
 - **`/spawn`** Teleports the player to spawn. Heroes have a cooldown.
 
 ## Hero Commands
-Upon a Ghost killing a Hero: The Ghost will take the Heroes place and inventory. The slain Hero will become a Ghost.
-Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them. Use a creatures ability by Sneaking and (Left) clicking.
+If a hero dies they will respawn as a ghost in spectator mode that can possess mobs and monsters. The hero's goal is to make it to The End and slay the ender dragon by collecting enough artifacts inside the final level of the dungeons. The hero to slay the dragon will be allowed to possess it as ghost! Heroes are able to purchase custom weapons and more at spawn in exchange for experience levels. Heroes are also able to craft custom spells using raw materials.
 
 - **`/bl [<list/reset>]`**  Allows selected items or blocks to be blacklisted from the players inventory, making it easier to manage.
   - Hold the item you wish to blacklist and type **`/blocklist`** Easy as that! To remove an item from the blocklist simply click on it!
@@ -46,7 +45,7 @@ Ghosts spawn in spectator mode and can possess mobs by (Right) clicking on them.
 - **`/recipes`**  Lists craft able spell recipes for Heroes.
 
 ## Ghost Commands
-If a ghost is able to kill a hero, they will take the hero's place and inventory and the fallen hero will re-spawn as ghost. Ghosts spawn in spectator mode and can possess mobs by **right clicking** on them. To use a mob's ability, **sneak whilst left clicking**. Ghosts can also spawn and upgrade monsters using experience levels via the artifacts menu.
+If a ghost is able to kill a hero, they will take the hero's place and inventory and the fallen hero will re-spawn as ghost. Ghosts spawn in spectator mode and can possess mobs by _right clicking_ on them. To use a mob's ability, _sneak_ whilst _left clicking._ Ghosts can also spawn and upgrade monsters using experience levels using the artifacts menu.
 
 - **`/artifacts`**  Opens up the Ghost artifacts in game GUI menu
 - **`/view`**  Toggles the mob model display while disguised
