@@ -7,7 +7,7 @@ layout: wikiPage
    .image-left {
      display: block;
      margin-left: 0px;
-     margin-right: 10px;
+     margin-right: 0px;
      float: left;
    }
 </style>
