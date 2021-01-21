@@ -21,10 +21,12 @@ div {
 
 
 <div>
-<p align="center"><a href="https://www.planetminecraft.com/server/minecraft-1-13-2-server-play-against-mobs-controlled-by-other-players-ip-ghostcraft-mc-gg/vote/"><img src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="40">
-<a href="https://minecraft-server.net/vote/ghostcraftmc/"><img src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="40">
-<a href="https://minecraft.buzz/server/714&tab=vote"><img src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="40">
-</a></p></div>
+<p align="center">
+<a href="https://www.planetminecraft.com/server/minecraft-1-13-2-server-play-against-mobs-controlled-by-other-players-ip-ghostcraft-mc-gg/vote/"><img src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="40"></a>
+<a href="https://minecraft-server.net/vote/ghostcraftmc/"><img src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="40"></a>
+<a href="https://minecraft.buzz/server/714&tab=vote"><img src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="40"></a>
+</p>
+</div>
 
 
 This server features a custom game mode inspired by "Crawl" where _**Heroes**_ explore dungeons while fighting monsters controlled by _**Ghosts.**_ Each dungeon has progressive levels with custom loot and bosses. Custom artifacts spawn on the final level that must be collected.
