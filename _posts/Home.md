@@ -17,6 +17,8 @@ layout: wikiPage
 <img align="center" src="https://camo.githubusercontent.com/ad5238f1e93274e0cc3fbd3918897ec3e4a8b8fec53d3d4277538b210d974007/687474703a2f2f7374617475732e6d636c6976652e65752f4d696e656372616674253230312e31362e342532304a61766125323045646974696f6e2f706c61792e637261776c2d737572766976616c2e636f6d2f32353536352f62616e6e65722e706e67"><br>
 
 * * *
+[![](https://www.crawl-survival.com/assets/pmc.png)](http://www.crawl-survival.com/donate) [![](https://www.crawl-survival.com/assets/topgg.png)](http://www.crawl-survival.com/donate)
+* * *
 
 This server features a custom game mode inspired by "Crawl" where _**Heroes**_ explore dungeons while fighting monsters controlled by _**Ghosts.**_ Each dungeon has progressive levels with custom loot and bosses. Custom artifacts spawn on the final level that must be collected.
 
