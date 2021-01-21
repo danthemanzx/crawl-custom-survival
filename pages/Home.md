@@ -30,6 +30,14 @@ _**Heroes**_  play in survival mode and must defeat dungeon levels in order to w
 
 * * *
 
+<div>
+<p align="center">
+<a href="https://www.planetminecraft.com/server/minecraft-1-13-2-server-play-against-mobs-controlled-by-other-players-ip-ghostcraft-mc-gg/vote/"><img src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="70"></a>    <a href="https://minecraft-server.net/vote/ghostcraftmc/"><img src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="70"></a>    <a href="https://minecraft.buzz/server/714&tab=vote"><img src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="70"></a>
+</p>
+</div>
+
+* * *
+
 # Gamemode Commands
 
 - **`/find [<player>]`** Teleport to other players. Leaving the argument blank fill open the GUI. Heroes can teleport to other Heroes but it will cost an ender pearl.
@@ -55,12 +63,6 @@ If a ghost is able to kill a hero, they will take the hero's place and inventory
 - **`/view`**  Toggles the mob model display while disguised
 
 * * *
-
-<div>
-<p align="center">
-<a href="https://www.planetminecraft.com/server/minecraft-1-13-2-server-play-against-mobs-controlled-by-other-players-ip-ghostcraft-mc-gg/vote/"><img src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="70"></a>    <a href="https://minecraft-server.net/vote/ghostcraftmc/"><img src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="70"></a>    <a href="https://minecraft.buzz/server/714&tab=vote"><img src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="70"></a>
-</p>
-</div>
 
 # Server Updates
 <html>
