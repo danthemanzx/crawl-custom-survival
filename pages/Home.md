@@ -11,22 +11,13 @@ layout: wikiPage
   float: right;
 }
 div {
-  margin: 10;
+  margin: 70px;
 }
 </style>
 
 # How to Play _(Minecraft Java Edition)_
 
 <img align="center" src="https://camo.githubusercontent.com/ad5238f1e93274e0cc3fbd3918897ec3e4a8b8fec53d3d4277538b210d974007/687474703a2f2f7374617475732e6d636c6976652e65752f4d696e656372616674253230312e31362e342532304a61766125323045646974696f6e2f706c61792e637261776c2d737572766976616c2e636f6d2f32353536352f62616e6e65722e706e67"><br>
-
-
-<div>
-<p align="center">
-<a href="https://www.planetminecraft.com/server/minecraft-1-13-2-server-play-against-mobs-controlled-by-other-players-ip-ghostcraft-mc-gg/vote/"><img src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="50"></a>
-<a href="https://minecraft-server.net/vote/ghostcraftmc/"><img src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="50"></a>
-<a href="https://minecraft.buzz/server/714&tab=vote"><img src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="50"></a>
-</p>
-</div>
 
 
 This server features a custom game mode inspired by "Crawl" where _**Heroes**_ explore dungeons while fighting monsters controlled by _**Ghosts.**_ Each dungeon has progressive levels with custom loot and bosses. Custom artifacts spawn on the final level that must be collected.
@@ -64,6 +55,16 @@ If a ghost is able to kill a hero, they will take the hero's place and inventory
 - **`/view`**  Toggles the mob model display while disguised
 
 * * *
+
+
+<div>
+<p align="center">
+<a href="https://www.planetminecraft.com/server/minecraft-1-13-2-server-play-against-mobs-controlled-by-other-players-ip-ghostcraft-mc-gg/vote/"><img src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="50"></a>
+<a href="https://minecraft-server.net/vote/ghostcraftmc/"><img src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="50"></a>
+<a href="https://minecraft.buzz/server/714&tab=vote"><img src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="50"></a>
+</p>
+</div>
+
 
 # Server Updates
 <html>
