@@ -5,11 +5,7 @@
         <h2 align="center"><em>play.crawl-survival.com</em></h2>
 </a></p><h4 align="center"><em>Minecraft 1.16.4 Java Edition</em></h4>
 <h3 align="center">
-    [
-    <a href="#gamemode-commands">Commands</a>
-    ][
-    <a href="#ghost-commands">Custom Lore</a>
-    ][
-    <a href="#server-updates">Updates</a>
-    ]
+    |  <a href="#gamemode-commands">Commands</a>
+    |  <a href="#ghost-commands">Lore</a>
+    |  <a href="#server-updates">Updates</a> |
 </h3>
