@@ -6,6 +6,6 @@
 </a></p><h4 align="center"><em>Minecraft 1.16.4 Java Edition</em></h4>
 <h3 align="center">
     |  <a href="#gamemode-commands">Commands</a>
-    |  <a href="#ghost-commands">Lore</a>
+    |  <a href="https://crawl-survival.com">Lore</a>
     |  <a href="#server-updates">Updates</a> |
 </h3>
