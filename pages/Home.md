@@ -19,11 +19,11 @@ layout: wikiPage
 * * *
 
 <p align="center">
-<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="20"> <img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/topgg.png" width="auto" height="20"> <img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/mb.png" width="auto" height="20">
-<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/mm.jpg" width="auto" height="20">
-<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="20">
-<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/mcs.png" width="auto" height="20">
-<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="20">
+<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/pmc.png" width="auto" height="30"> <img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/topgg.png" width="auto" height="30"> <img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/mb.png" width="auto" height="30">
+<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/mm.jpg" width="auto" height="30">
+<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/ms.png" width="auto" height="30">
+<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/mcs.png" width="auto" height="30">
+<img href="https://www.crawl-survival.com/" src="https://www.crawl-survival.com/assets/bzz.png" width="auto" height="30">
 </p>
 
 * * *
