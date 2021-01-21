@@ -35,7 +35,7 @@ _**Heroes**_  play in survival mode and must defeat dungeon levels in order to w
 - **`/premium`** Opens up in game premium GUI menu
 - **`/spawn`** Teleports the player to spawn. Heroes have a cooldown.
 
-## Hero Commands
+# Hero Commands
 If a hero dies they will respawn as a ghost in spectator mode that can possess mobs and monsters. The hero's goal is to make it to The End and slay the ender dragon by collecting enough artifacts inside the final level of the dungeons. The hero to slay the dragon will be allowed to possess it as ghost! Heroes are able to purchase custom weapons and more at spawn in exchange for experience levels. Heroes are also able to craft custom spells using raw materials.
 
 - **`/bl [<list/reset>]`**  Allows selected items or blocks to be blacklisted from the players inventory, making it easier to manage.
@@ -44,7 +44,7 @@ If a hero dies they will respawn as a ghost in spectator mode that can possess m
 - **`/home`**  Teleports the players to their bed if it exists. Heroes must pay one ender pearl to use.
 - **`/recipes`**  Lists craft able spell recipes for Heroes.
 
-## Ghost Commands
+# Ghost Commands
 If a ghost is able to kill a hero, they will take the hero's place and inventory and the fallen hero will re-spawn as ghost. Ghosts spawn in spectator mode and can possess mobs by _right clicking_ on them. To use a mob's ability, _sneak_ whilst _left clicking._ Ghosts can also spawn and upgrade monsters using experience levels using the artifacts menu.
 
 - **`/artifacts`**  Opens up the Ghost artifacts in game GUI menu
