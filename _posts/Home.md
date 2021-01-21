@@ -26,7 +26,7 @@ _**Heroes**_  play in survival mode and must defeat dungeon levels in order to w
 
 * * *
 
-## Gamemode Commands
+# Gamemode Commands
 
 - **`/find [<player>]`** Teleport to other players. Leaving the argument blank fill open the GUI. Heroes can teleport to other Heroes but it will cost an ender pearl.
 - **`/ghost`** Respawn as a Ghost in spectator mode.
