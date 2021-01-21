@@ -11,7 +11,7 @@ layout: wikiPage
   float: right;
 }
 div {
-  margin: 10;
+  margin: 70px;
 }
 </style>
 
